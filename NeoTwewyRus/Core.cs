@@ -43,7 +43,13 @@ namespace NeoTwewyRus
                 {
                     mainTexture = texture,
                     name = "FOT-NewRodinProN-B Material"
+
                 };
+
+                // Обводка
+                material.EnableKeyword("OUTLINE_ON");
+                material.SetColor("_OutlineColor", UnityEngine.Color.black);
+                material.SetFloat("_OutlineWidth", 0.2f);
 
                 // Создание объекта TMP шрифта и загрузка в него кучи инфы. 
                 var fontAsset = ScriptableObject.CreateInstance<TMP_FontAsset>();
@@ -234,13 +240,8 @@ namespace NeoTwewyRus
             [HarmonyPostfix]
             public static void Postfix(TextMeshProUGUI __instance)
             {
-                if (__instance.font != null && __instance.font.name == "FOT-NewRodinProN-B SDF" 
-                    && __instance.name != "AreaName" && !__instance.name.StartsWith("ShopName") 
-                    && __instance.name != "Text_star" && __instance.name != "Text_name"
-                    && __instance.name != "Text_num" && __instance.name != "txt_BP"
-                    && __instance.name != "num_round" && __instance.name != "num_BP" 
-                    && __instance.name != "txt_rank" && __instance.name != "num_Damage"
-                    && __instance.name != "num_exp" && __instance.name != "num_money_pay")
+                if (__instance.font != null && __instance.font.name == "FOT-NewRodinProN-B SDF" && __instance.name != "Text_name"
+                    && __instance.name != "AreaName" && !__instance.name.StartsWith("ShopName"))
                 {
                     __instance.font = _newFont;
                 }

@@ -29,7 +29,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "500",
+		"config_width": "440",
 		"config_height": "80"
 	},
 	{
@@ -61,7 +61,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "260",
+		"config_width": "200",
 		"config_height": "115"
 	},
 	{
@@ -93,7 +93,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "265",
+		"config_width": "285",
 		"config_height": "80"
 	},
 	{
@@ -125,7 +125,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "215",
+		"config_width": "180",
 		"config_height": "80"
 	},
 	{
@@ -157,7 +157,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "320",
+		"config_width": "240",
 		"config_height": "80"
 	},
 	{
@@ -173,7 +173,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "340",
+		"config_width": "320",
 		"config_height": "80"
 	},
 	{
@@ -189,7 +189,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "160",
+		"config_width": "190",
 		"config_height": "80"
 	},
 	{
@@ -301,7 +301,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "140",
+		"config_width": "120",
 		"config_height": "80"
 	},
 	{
@@ -653,7 +653,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "480",
+		"config_width": "490",
 		"config_height": "150"
 	},
 	{
@@ -669,7 +669,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "460",
+		"config_width": "480",
 		"config_height": "150"
 	},
 	{
@@ -685,7 +685,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "490",
+		"config_width": "480",
 		"config_height": "150"
 	},
 	{
@@ -701,7 +701,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "440",
+		"config_width": "480",
 		"config_height": "80"
 	},
 	{
@@ -733,7 +733,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "285",
+		"config_width": "295",
 		"config_height": "80"
 	},
 	{
@@ -2685,7 +2685,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "350",
+		"config_width": "380",
 		"config_height": "80"
 	},
 	{
@@ -2701,7 +2701,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "195",
+		"config_width": "165",
 		"config_height": "80"
 	},
 	{
@@ -2717,7 +2717,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "470",
+		"config_width": "480",
 		"config_height": "115"
 	},
 	{
@@ -2749,7 +2749,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "30",
-		"config_width": "430",
+		"config_width": "400",
 		"config_height": "80"
 	},
 	{
@@ -5341,7 +5341,7 @@
 		"config": "",
 		"config_font": "0",
 		"config_fontsize": "32",
-		"config_width": "360",
+		"config_width": "370",
 		"config_height": "125"
 	},
 	{

@@ -1,0 +1,5194 @@
+{
+"columns":[
+	{
+		"name": "board_main_title",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d0_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Планы на сегодня"
+	},
+	{
+		"name": "board_w1d1_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d2_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d3_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Планы на сегодня"
+	},
+	{
+		"name": "board_w1d4_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d5_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d6_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w1d7_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d1_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d2_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d3_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d4_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d5_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d6_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w2d7_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Задание на сегодня"
+	},
+	{
+		"name": "board_w3d1_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d2_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d3_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d4_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d5_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d6_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d7_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d8_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w3d9_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_w4d1_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Цель на сегодня"
+	},
+	{
+		"name": "board_sub01_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Prince's Predicament"
+	},
+	{
+		"name": "board_sub02_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Prince Possessed"
+	},
+	{
+		"name": "board_sub03_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Don Curryone"
+	},
+	{
+		"name": "board_sub04_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Don You Forget About Me"
+	},
+	{
+		"name": "board_sub05_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Don Worry, Be Happy"
+	},
+	{
+		"name": "board_sub06_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Wallet Woes"
+	},
+	{
+		"name": "board_sub07_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Love on the Brain"
+	},
+	{
+		"name": "board_sub08_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Quiz or No Quiz?"
+	},
+	{
+		"name": "board_sub09_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "It's all Greek to Sumio"
+	},
+	{
+		"name": "board_sub10_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Ghosted"
+	},
+	{
+		"name": "board_sub11_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Noisemeister Cometh"
+	},
+	{
+		"name": "board_sub12_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Put the Phone Down (Get a Hobby)"
+	},
+	{
+		"name": "board_sub13_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Identity Crisis"
+	},
+	{
+		"name": "board_sub14_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Voice of an Angel"
+	},
+	{
+		"name": "board_sub15_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Internet Trolls"
+	},
+	{
+		"name": "board_sub16_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Don't Stop <g>Be-leafing</g>"
+	},
+	{
+		"name": "board_sub17_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Fangirl in Crisis"
+	},
+	{
+		"name": "board_sub18_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Get by with a Little Help(er)"
+	},
+	{
+		"name": "board_sub29_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Get by with a Little Helper: 2 Helpful"
+	},
+	{
+		"name": "board_sub30_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "MKN Memento"
+	},
+	{
+		"name": "board_sub31_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Good Noise Hunting"
+	},
+	{
+		"name": "board_sub32_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Overheated Fanboy"
+	},
+	{
+		"name": "board_sub33_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Peroxidoll's Problem"
+	},
+	{
+		"name": "board_sub34_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Brotherly Bugaboo"
+	},
+	{
+		"name": "board_sub35_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Modoriyama Drama Llama"
+	},
+	{
+		"name": "board_sub36_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Kashiki's Koncern"
+	},
+	{
+		"name": "board_sub37_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Get in the Spirit"
+	},
+	{
+		"name": "board_sub38_maintitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Elegant Possession"
+	},
+	{
+		"name": "board_w1d0_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Потусоваться в Сибуе"
+	},
+	{
+		"name": "board_w1d1_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Complete your Reapers' Game orders"
+	},
+	{
+		"name": "board_w1d2_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the riddles sketched around town"
+	},
+	{
+		"name": "board_w1d3_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Recruit the new Player"
+	},
+	{
+		"name": "board_w1d4_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase Ryoji's <MK_11>Noise problem<MK_11>"
+	},
+	{
+		"name": "board_w1d5_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Poach the true golden pig"
+	},
+	{
+		"name": "board_w1d6_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win the Scramble Slam"
+	},
+	{
+		"name": "board_w1d7_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Bring ruin to the Ruinbringers"
+	},
+	{
+		"name": "board_w2d1_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Break the barrier and erase the target"
+	},
+	{
+		"name": "board_w2d2_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search for Neku"
+	},
+	{
+		"name": "board_w2d3_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win the Scramble Slam"
+	},
+	{
+		"name": "board_w2d4_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Unravel the city's riddles"
+	},
+	{
+		"name": "board_w2d5_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the key to the target"
+	},
+	{
+		"name": "board_w2d6_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take control of the city and erase the target"
+	},
+	{
+		"name": "board_w2d7_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Bring ruin to the Ruinbringers"
+	},
+	{
+		"name": "board_w3d1_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Plague Noise"
+	},
+	{
+		"name": "board_w3d2_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search for Ayano"
+	},
+	{
+		"name": "board_w3d3_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Recover my lost memories"
+	},
+	{
+		"name": "board_w3d4_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Figure out Shiba's whereabouts"
+	},
+	{
+		"name": "board_w3d5_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Uncover the truth behind Shinjuku's erasure"
+	},
+	{
+		"name": "board_w3d6_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Chase after Susukichi"
+	},
+	{
+		"name": "board_w3d7_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take down Shiba"
+	},
+	{
+		"name": "board_w3d8_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Save Shibuya from erasure"
+	},
+	{
+		"name": "board_w3d9_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Save Shibuya from erasure"
+	},
+	{
+		"name": "board_w3d9_boardtitle_before",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Give Haz a tour of Shibuya"
+	},
+	{
+		"name": "board_w4d1_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Attend Shibuyapalooza"
+	},
+	{
+		"name": "board_sub01_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Eiji Oji"
+	},
+	{
+		"name": "board_sub02_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Eiji Oji"
+	},
+	{
+		"name": "board_sub03_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the curry restaurant owner"
+	},
+	{
+		"name": "board_sub04_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the Don"
+	},
+	{
+		"name": "board_sub05_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the Don"
+	},
+	{
+		"name": "board_sub06_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the guy out"
+	},
+	{
+		"name": "board_sub07_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the fighting couple"
+	},
+	{
+		"name": "board_sub08_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Answer the quiz questions"
+	},
+	{
+		"name": "board_sub09_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Sumio"
+	},
+	{
+		"name": "board_sub10_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Maito"
+	},
+	{
+		"name": "board_sub11_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take on the Reaper's Noise"
+	},
+	{
+		"name": "board_sub12_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the Reaper"
+	},
+	{
+		"name": "board_sub13_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the person in trouble"
+	},
+	{
+		"name": "board_sub14_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stop Eiru and Eiji Oji from fighting"
+	},
+	{
+		"name": "board_sub15_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Ryoji"
+	},
+	{
+		"name": "board_sub16_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Ryoji"
+	},
+	{
+		"name": "board_sub17_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the high schooler"
+	},
+	{
+		"name": "board_sub18_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Ryoji's <MK_11>little helper<MK_11>"
+	},
+	{
+		"name": "board_sub29_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Ryoji's <MK_11>little helper<MK_11>"
+	},
+	{
+		"name": "board_sub30_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help MKN"
+	},
+	{
+		"name": "board_sub31_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the boy"
+	},
+	{
+		"name": "board_sub32_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the idol fan"
+	},
+	{
+		"name": "board_sub33_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the pop idol"
+	},
+	{
+		"name": "board_sub34_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the guy in the hoodie"
+	},
+	{
+		"name": "board_sub35_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Modoriyama"
+	},
+	{
+		"name": "board_sub36_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help Kashiki"
+	},
+	{
+		"name": "board_sub37_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the apparition"
+	},
+	{
+		"name": "board_sub38_boardtitle",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Help the high schooler"
+	},
+	{
+		"name": "board_w1d0_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Встретиться с Фретом у 104"
+	},
+	{
+		"name": "board_w1d0_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Пообедать в Догензаке"
+	},
+	{
+		"name": "board_w1d0_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Что мне больше по душе: рамен или карри?"
+	},
+	{
+		"name": "board_w1d0_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Направиться к Диагональному Перекрёстку"
+	},
+	{
+		"name": "board_w1d1_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan and erase the Noise"
+	},
+	{
+		"name": "board_w1d1_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the woman's thoughts"
+	},
+	{
+		"name": "board_w1d1_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to Hachiko"
+	},
+	{
+		"name": "board_w1d1_T3_2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the thoughts of the people around spot C"
+	},
+	{
+		"name": "board_w1d1_T3_4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the area around the manhole and erase the Noise"
+	},
+	{
+		"name": "board_w1d1_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the four skulls hidden in the crossing"
+	},
+	{
+		"name": "board_w1d1_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess the skulls are at the spots marked A through D"
+	},
+	{
+		"name": "board_w1d1_T4_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Those stripes on the ground must be the crosswalk"
+	},
+	{
+		"name": "board_w1d1_T4_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Found a yellow skull on that sign"
+	},
+	{
+		"name": "board_w1d1_T4_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Saw a blue skull on the screen above the bookstore"
+	},
+	{
+		"name": "board_w1d1_T4_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "That guy had a purple skull on his arm"
+	},
+	{
+		"name": "board_w1d1_T4_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "There was a red skull on the manhole"
+	},
+	{
+		"name": "board_w1d1_T4_2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the skull in spot A"
+	},
+	{
+		"name": "board_w1d1_T4_4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the skull in spot B"
+	},
+	{
+		"name": "board_w1d1_T4_6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the skull in spot C"
+	},
+	{
+		"name": "board_w1d1_T4_8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the skull in spot D"
+	},
+	{
+		"name": "board_w1d1_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to the Reaper at Hachiko and solve the skull puzzle"
+	},
+	{
+		"name": "board_w1d1_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The dog represents Hachiko...obviously"
+	},
+	{
+		"name": "board_w1d1_T5_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Those stripes on the ground must be the crosswalk"
+	},
+	{
+		"name": "board_w1d1_T5_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which skulls did we manage to find again?"
+	},
+	{
+		"name": "board_w1d1_T5_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Yellow skull on the sign"
+	},
+	{
+		"name": "board_w1d1_T5_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Blue skull on the big screen"
+	},
+	{
+		"name": "board_w1d1_T5_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Purple skull on the guy's arm"
+	},
+	{
+		"name": "board_w1d1_T5_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Red skull on the manhole"
+	},
+	{
+		"name": "board_w1d1_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take down the target in front of Shibuya Hikarie"
+	},
+	{
+		"name": "board_w1d2_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the riddles sketched on the city's canvas"
+	},
+	{
+		"name": "board_w1d2_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess we just follow the mission app's instructions?"
+	},
+	{
+		"name": "board_w1d2_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the second <MK_11>sketched riddle<MK_11>"
+	},
+	{
+		"name": "board_w1d2_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We're supposed to <MK_11>ascend the goddess's tower<MK_11>...<BR>wherever that is"
+	},
+	{
+		"name": "board_w1d2_T2_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Maybe it means 104...?"
+	},
+	{
+		"name": "board_w1d2_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show that Reaper a No. 163 Midaregami pin"
+	},
+	{
+		"name": "board_w1d2_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like we can nab it from that jellyfish-looking Noise, Jelly Madchester"
+	},
+	{
+		"name": "board_w1d2_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the last <MK_11>sketched riddle<MK_11>"
+	},
+	{
+		"name": "board_w1d2_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Should be somewhere around Stupor Street..."
+	},
+	{
+		"name": "board_w1d2_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone <MK_11>sketched<MK_11> over our riddle!"
+	},
+	{
+		"name": "board_w1d2_T4_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently our culprit goes by the name <MK_11>MKN<MK_11>"
+	},
+	{
+		"name": "board_w1d2_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Use Fret's powers to remind people about MKN"
+	},
+	{
+		"name": "board_w1d2_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like they're known for wearing all orange..."
+	},
+	{
+		"name": "board_w1d2_T5_1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the area for someone who saw MKN"
+	},
+	{
+		"name": "board_w1d2_T5_1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like they're known for wearing all orange..."
+	},
+	{
+		"name": "board_w1d2_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow MKN to O-EAST"
+	},
+	{
+		"name": "board_w1d2_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind the Reaper of their mission"
+	},
+	{
+		"name": "board_w1d2_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 2-reduction chain battle at Dogenzaka, then return to the Reaper"
+	},
+	{
+		"name": "board_w1d2_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for MKN around O-EAST"
+	},
+	{
+		"name": "board_w1d2_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like they're known for wearing all orange..."
+	},
+	{
+		"name": "board_w1d2_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind MKN of her graffiti at Dogenzaka"
+	},
+	{
+		"name": "board_w1d2_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to 104 and solve today's riddle"
+	},
+	{
+		"name": "board_w1d2_T11_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The graffiti at the crossing showed someone roaring"
+	},
+	{
+		"name": "board_w1d2_T11_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The graffiti at 104 showed someone pounding their chest"
+	},
+	{
+		"name": "board_w1d2_T11_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The graffiti at Dogenzaka showed the 104 building"
+	},
+	{
+		"name": "board_w1d3_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "See what's on people's minds"
+	},
+	{
+		"name": "board_w1d3_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to Center Street"
+	},
+	{
+		"name": "board_w1d3_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show that Reaper you're wearing something from <CRE>Joli bécot</C>"
+	},
+	{
+		"name": "board_w1d3_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Should be able to buy some threads at 104"
+	},
+	{
+		"name": "board_w1d3_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Center Street for info about the new Player"
+	},
+	{
+		"name": "board_w1d3_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out TOKYU HANDS near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w1d3_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Use that EleStra pin to change our fate"
+	},
+	{
+		"name": "board_w1d3_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Exchange counter is at TOKYU HANDS"
+	},
+	{
+		"name": "board_w1d3_T6_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "...But we need a voucher from Hachiko Café"
+	},
+	{
+		"name": "board_w1d3_T6_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Got the pin! Will this do the trick?"
+	},
+	{
+		"name": "board_w1d3_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head back to the café at the crossing"
+	},
+	{
+		"name": "board_w1d3_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Thin out the line before the café opens"
+	},
+	{
+		"name": "board_w1d3_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Return to TOKYU HANDS and pick up the pin"
+	},
+	{
+		"name": "board_w1d4_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for Ryoji's <MK_11>little helper<MK_11> in the Center Street alley"
+	},
+	{
+		"name": "board_w1d4_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive into the mind of Ryoji's <MK_11>little helper<MK_11> and erase the Noise"
+	},
+	{
+		"name": "board_w1d4_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Figure out the number for Ryoji's direct line"
+	},
+	{
+		"name": "board_w1d4_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Should be able to piece together Ryoji's number from the stickers around town"
+	},
+	{
+		"name": "board_w1d4_T3_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is 5"
+	},
+	{
+		"name": "board_w1d4_T3_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is #"
+	},
+	{
+		"name": "board_w1d4_T3_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is 9"
+	},
+	{
+		"name": "board_w1d4_T3_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is 2"
+	},
+	{
+		"name": "board_w1d4_T3_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is 3"
+	},
+	{
+		"name": "board_w1d4_T3_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the digits is 7"
+	},
+	{
+		"name": "board_w1d4_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for some <MK_11>sinful ramen<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for some <MK_11>backstreet refreshments<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for <MK_11>a hole in the crossing<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for <MK_11>a dog's backside<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for <MK_11>a yellow building's entrance<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for <MK_11>a haven covered in green<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 3-reduction chain battle at Center Street, then return to the Reaper"
+	},
+	{
+		"name": "board_w1d4_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the phone booth near TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d4_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive into the mind of Ryoji's <MK_11>little helper<MK_11> and erase the Noise"
+	},
+	{
+		"name": "board_w1d4_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Call Ryoji from the phone booth"
+	},
+	{
+		"name": "board_w1d4_T14_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The digits we've found are 5, #, 9, 2, 3, and 7"
+	},
+	{
+		"name": "board_w1d4_T14_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Start with a symbol, then shrink your numbers<MK_11>"
+	},
+	{
+		"name": "board_w1d4_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet Ryoji outside of TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d4_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive inside Ryoji's mind and erase the Noise"
+	},
+	{
+		"name": "board_w1d5_T0",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gather intel on the golden pig"
+	},
+	{
+		"name": "board_w1d5_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan around Tipsy Tose Hall for the golden pig"
+	},
+	{
+		"name": "board_w1d5_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "So the true gold pig nets us 100 points, but the gilded<BR>ones only give one apiece..."
+	},
+	{
+		"name": "board_w1d5_T1_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The last-place team earns five times the points!? How is that fair?"
+	},
+	{
+		"name": "board_w1d5_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the golden pig to Spain Hill"
+	},
+	{
+		"name": "board_w1d5_T2_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check on Ryoji"
+	},
+	{
+		"name": "board_w1d5_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Ryoji's thoughts"
+	},
+	{
+		"name": "board_w1d5_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint Ryoji with a solution to his troubles"
+	},
+	{
+		"name": "board_w1d5_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like he's struggling to come up with a slogan for his pig plushies"
+	},
+	{
+		"name": "board_w1d5_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Maybe we can glean some inspiration from people and places around town"
+	},
+	{
+		"name": "board_w1d5_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Spain Hill for the golden pig"
+	},
+	{
+		"name": "board_w1d5_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the golden pig to TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d5_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the golden pig to the Scramble Crossing"
+	},
+	{
+		"name": "board_w1d5_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Complete the Reaper's special mission"
+	},
+	{
+		"name": "board_w1d5_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess he wants us to imprint that kid with an idea that'll help him make up his mind"
+	},
+	{
+		"name": "board_w1d5_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the Scramble Crossing for the golden pig"
+	},
+	{
+		"name": "board_w1d5_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the golden pig to Center Street"
+	},
+	{
+		"name": "board_w1d5_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the golden pig to Spain Hill"
+	},
+	{
+		"name": "board_w1d5_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Avoid getting ambushed by the gilded pigs and the Deep Rivers Society"
+	},
+	{
+		"name": "board_w1d5_T12_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "No one'll be getting in our way anymore"
+	},
+	{
+		"name": "board_w1d5_T12_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gotta stop those swine at the source..."
+	},
+	{
+		"name": "board_w1d5_T12_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "That should take care of those pesky pigs!"
+	},
+	{
+		"name": "board_w1d5_T12_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Better dam up the Deep Rivers Society"
+	},
+	{
+		"name": "board_w1d5_T12_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Managed to wipe out a number of Deep Rivers Society members"
+	},
+	{
+		"name": "board_w1d5_T12_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "At this point, the Deep Rivers Society is barely treading water"
+	},
+	{
+		"name": "board_w1d5_T12_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Deep Rivers Society is all washed up!"
+	},
+	{
+		"name": "board_w1d5_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Prevent the gilded pig outbreak"
+	},
+	{
+		"name": "board_w1d5_T13_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like that pig plushie is to blame..."
+	},
+	{
+		"name": "board_w1d5_T13_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Wasn't Ryoji selling those things?"
+	},
+	{
+		"name": "board_w1d5_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive into the mind of the guy at Center Street and erase the Noise"
+	},
+	{
+		"name": "board_w1d5_T14_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Nagi said his aura felt similar to those fake pigs..."
+	},
+	{
+		"name": "board_w1d5_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people about the pig plushies"
+	},
+	{
+		"name": "board_w1d5_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we imprinted Ryoji with ideas at Center Street"
+	},
+	{
+		"name": "board_w1d5_T17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint Ryoji with a bad idea just in case"
+	},
+	{
+		"name": "board_w1d5_T17_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "How do we prevent those pig plushies from selling?"
+	},
+	{
+		"name": "board_w1d5_T18",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take care of the Deep Rivers Society members around Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w1d5_T18_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They've really got a thing for those <MK_11>bodies of water<MK_11>..."
+	},
+	{
+		"name": "board_w1d5_T18_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Didn't Nagi notice something over by QFRONT?"
+	},
+	{
+		"name": "board_w1d5_T19",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to the Scramble Crossing and gather info on the <MK_11>bodies of water<MK_11>"
+	},
+	{
+		"name": "board_w1d5_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to Tipsy Tose Hall and remind Fuya's teammates about Ao Kasumi"
+	},
+	{
+		"name": "board_w1d5_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Ao Kasumi's exhibition at QFRONT apparently runs until 2 PM today"
+	},
+	{
+		"name": "board_w1d5_T21",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take care of the Deep Rivers Society members around the Scramble Crossing"
+	},
+	{
+		"name": "board_w1d5_T21_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The password is <MK_11>the river flows swift and clear<MK_11>"
+	},
+	{
+		"name": "board_w1d5_T22",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind Fuya's teammate of the password"
+	},
+	{
+		"name": "board_w1d5_T23",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take care of the Deep Rivers Society members around Center Street"
+	},
+	{
+		"name": "board_w1d5_T23_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of 'em was a big fan of Miss Banks from the Peroxidolls..."
+	},
+	{
+		"name": "board_w1d5_T23_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we know when Miss Banks'll be at TOWER RECORDS, we might be able to lead them there!"
+	},
+	{
+		"name": "board_w1d5_T24",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to TOWER RECORDS and gather info about the meet-and-greet"
+	},
+	{
+		"name": "board_w1d5_T25",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Make the staff check the Peroxidolls' arrival time"
+	},
+	{
+		"name": "board_w1d5_T25_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Can we do it without relying on Fret's powers?"
+	},
+	{
+		"name": "board_w1d5_T26",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to Center Street and tell Fuya's teammate about the meet-and-greet"
+	},
+	{
+		"name": "board_w1d5_T26_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently the 'Dolls are arriving at 4 PM"
+	},
+	{
+		"name": "board_w1d5_T27",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take care of the Deep Rivers Society members around TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d5_T27_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "That guy was really keen on catching that online lecture from the Shibuya Historical Society..."
+	},
+	{
+		"name": "board_w1d5_T27_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We should be able to stop them if we can prevent the lecture from getting canceled"
+	},
+	{
+		"name": "board_w1d5_T28",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to Spain Hill and find Buddy Rapids"
+	},
+	{
+		"name": "board_w1d5_T28_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Didn't we see someone looking for the lecture venue?"
+	},
+	{
+		"name": "board_w1d5_T29",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint Buddy Rapids with the location of TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d5_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to TOWER RECORDS and check on Fuya's teammate"
+	},
+	{
+		"name": "board_w1d5_T31",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take care of the Deep Rivers Society Members around Spain Hill"
+	},
+	{
+		"name": "board_w1d5_T31_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We could just beat 'em before they beat us...?"
+	},
+	{
+		"name": "board_w1d6_T0",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around 104 and the Scramble Crossing"
+	},
+	{
+		"name": "board_w1d6_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around 104"
+	},
+	{
+		"name": "board_w1d6_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently we have to erase the <MK_11>Turf Noise<MK_11> in order to take an unclaimed area"
+	},
+	{
+		"name": "board_w1d6_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the Scramble Crossing"
+	},
+	{
+		"name": "board_w1d6_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like we've gotta beat the other teams in battle in order to take their turf"
+	},
+	{
+		"name": "board_w1d6_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Consider teaming up with the Deep Rivers Society to take down the Variabeauties"
+	},
+	{
+		"name": "board_w1d6_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Our best bet at besting the 'Beauties would be to take either Center Street or Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w1d6_T3_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we wanna keep the Deep Rivers Society in last place, then we should take TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d6_T3_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the remaining areas"
+	},
+	{
+		"name": "board_w1d6_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around TOWER RECORDS"
+	},
+	{
+		"name": "board_w1d6_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Center Street"
+	},
+	{
+		"name": "board_w1d6_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Spain Hill"
+	},
+	{
+		"name": "board_w1d6_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w1d6_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to Udagawa"
+	},
+	{
+		"name": "board_w1d6_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Not excited about this <MK_11>grand finale<MK_11>..."
+	},
+	{
+		"name": "board_w1d7_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find Susukichi"
+	},
+	{
+		"name": "board_w1d7_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "He sent us a selfie showing his location"
+	},
+	{
+		"name": "board_w1d7_T1_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Looks like he's near Tipsy Tose Hall?"
+	},
+	{
+		"name": "board_w1d7_T1_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Now Susukichi's on the move..."
+	},
+	{
+		"name": "board_w1d7_T1_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Doesn't this look like O-EAST?"
+	},
+	{
+		"name": "board_w1d7_T1_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "And he's on the move...again"
+	},
+	{
+		"name": "board_w1d7_T1_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I think this is outside of Shibuya Hikarie?"
+	},
+	{
+		"name": "board_w1d7_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the Expressway Underpass"
+	},
+	{
+		"name": "board_w1d7_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Hopefully he stays put this time..."
+	},
+	{
+		"name": "board_w1d7_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show that Reaper a <CRE>garagara</C> ensemble"
+	},
+	{
+		"name": "board_w1d7_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between TOWER RECORDS and Spain Hill"
+	},
+	{
+		"name": "board_w1d7_T3_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Pretty sure garagara had a shop in MODI..."
+	},
+	{
+		"name": "board_w1d7_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 2-reduction chain battle around TOWER RECORDS or the Scramble Crossing, then return to the Reaper"
+	},
+	{
+		"name": "board_w1d7_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between TOWER RECORDS and the Scramble Crossing"
+	},
+	{
+		"name": "board_w1d7_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 5-reduction chain battle around Tipsy Tose Hall or Center Street, then return to the Reaper"
+	},
+	{
+		"name": "board_w1d7_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Tipsy Tose Hall and Center Street"
+	},
+	{
+		"name": "board_w1d7_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase five Bigbanfrogs in the Scramble Crossing, then return to the Reaper"
+	},
+	{
+		"name": "board_w1d7_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between the Scramble Crossing and 104"
+	},
+	{
+		"name": "board_w1d7_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Correctly answer the Reaper's question"
+	},
+	{
+		"name": "board_w1d7_T7_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Spain Hill and Center Street"
+	},
+	{
+		"name": "board_w1d7_T7_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess I oughta study for this little quiz..."
+	},
+	{
+		"name": "board_w1d7_T7_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "What comes to mind when you hear the following words: a huge building, north of the Scramble, yellow wall?"
+	},
+	{
+		"name": "board_w1d7_T7_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Our choices are 104, MODI, TOWER RECORDS, or PARCO"
+	},
+	{
+		"name": "board_w1d7_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase one of the specified Noise"
+	},
+	{
+		"name": "board_w1d7_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between 104 and Dogenzaka"
+	},
+	{
+		"name": "board_w1d7_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show that Reaper you're wearing something from <CRE>Top o' Topo</C>"
+	},
+	{
+		"name": "board_w1d7_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between 104 and O-EAST"
+	},
+	{
+		"name": "board_w1d7_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Correctly answer the Reaper Review"
+	},
+	{
+		"name": "board_w1d7_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Dogenzaka and O-EAST"
+	},
+	{
+		"name": "board_w1d7_T10_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Probably oughta review for this <MK_11>Review<MK_11>..."
+	},
+	{
+		"name": "board_w1d7_T10_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which store is not found in 104: Top o' Topo, Joli bécot, or NATURAL PUPPY?"
+	},
+	{
+		"name": "board_w1d7_T10_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "What's the angle of the Dogenzaka slope: 3 degrees, 10 degrees, or 20 degrees?"
+	},
+	{
+		"name": "board_w1d7_T10_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "It's pretty shallow...probably about 3 degrees"
+	},
+	{
+		"name": "board_w1d7_T10_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which noodle dish is not served at Suzu Slurpz: miso ramen, rich dandan noodles, or salty lemon ramen?"
+	},
+	{
+		"name": "board_w1d7_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Correctly answer the Reaper's questions."
+	},
+	{
+		"name": "board_w1d7_T11_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between the Scramble Crossing and Shibuya Hikarie"
+	},
+	{
+		"name": "board_w1d7_T11_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "What's with all these tests? We're not even in school!"
+	},
+	{
+		"name": "board_w1d7_T11_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which of the following is directly inaccessible from the Scramble Crossing: 104, Spain Hill, or TOWER RECORDS?"
+	},
+	{
+		"name": "board_w1d7_T11_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which of the following shops is not located in the Scramble Crossing: Justice Burger, Hachiko Café, or Donburi Town?"
+	},
+	{
+		"name": "board_w1d7_T11_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "How many crosswalks are painted in the Scramble Crossing: 3, 5, or 8?"
+	},
+	{
+		"name": "board_w1d7_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Figure out Susukichi's weakness"
+	},
+	{
+		"name": "board_w1d7_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Did Motoi give us bad intel?"
+	},
+	{
+		"name": "board_w1d7_T20_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Asking Susukichi about <MK_11>breaking the diagonal<MK_11> only made things worse..."
+	},
+	{
+		"name": "board_w1d7_T20_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "No time to go searching for more info...just gotta track him down ASAP!"
+	},
+	{
+		"name": "board_w1d7_T20_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Looks like Mr. Minami's gonna lend us a hand this time!"
+	},
+	{
+		"name": "board_w1d7_T20_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We've done all we can...but will it be enough?"
+	},
+	{
+		"name": "board_w1d7_T21",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to Susukichi's next location and gather intel"
+	},
+	{
+		"name": "board_w1d7_T21_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Susukichi isn't at Tipsy Tose Hall anymore..."
+	},
+	{
+		"name": "board_w1d7_T21_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We know he's outside O-EAST right now, but can we make it there before he leaves?"
+	},
+	{
+		"name": "board_w1d7_T21_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Maybe we could try beating him to Shibuya Hikarie!"
+	},
+	{
+		"name": "board_w1d7_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take down Susukichi"
+	},
+	{
+		"name": "board_w2d1_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Investigate the alley"
+	},
+	{
+		"name": "board_w2d1_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint the guy leaning against the gate with the idea to move"
+	},
+	{
+		"name": "board_w2d1_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stroll through Takeshita Street"
+	},
+	{
+		"name": "board_w2d1_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the first riddle"
+	},
+	{
+		"name": "board_w2d1_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper sent us a message: <MK_11>The door will open when the mannequin reveals its stylish side.<MK_11>"
+	},
+	{
+		"name": "board_w2d1_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #1: Look for something or someone stylish"
+	},
+	{
+		"name": "board_w2d1_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #1: Find a way to get the high schoolers to move"
+	},
+	{
+		"name": "board_w2d1_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "No way to see what true style looks like from behind this crowd..."
+	},
+	{
+		"name": "board_w2d1_T6_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The schoolgirls might move along if something were to pique their interest"
+	},
+	{
+		"name": "board_w2d1_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #1: Scan the thoughts of the girl Fret's talking about"
+	},
+	{
+		"name": "board_w2d1_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #1: Remind the schoolgirls of a reason to move"
+	},
+	{
+		"name": "board_w2d1_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gotta get those girls over to where Kashiki is"
+	},
+	{
+		"name": "board_w2d1_T8_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Those girls are <i>really</i> into Kashiki..."
+	},
+	{
+		"name": "board_w2d1_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #1: Doll up the mannequin"
+	},
+	{
+		"name": "board_w2d1_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Now that we know what real style looks like, let's make sure the mannequin's just as chic"
+	},
+	{
+		"name": "board_w2d1_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the second riddle"
+	},
+	{
+		"name": "board_w2d1_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper sent us a message..."
+	},
+	{
+		"name": "board_w2d1_T10_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>The key will reveal itself overhead when the vending machine takes the six designated digits.<MK_11>"
+	},
+	{
+		"name": "board_w2d1_T10_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Keep an eye out for anything odd that might be overhead"
+	},
+	{
+		"name": "board_w2d1_T10_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "What'd we see overhead again...?"
+	},
+	{
+		"name": "board_w2d1_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #2: Scan the repairman's thoughts"
+	},
+	{
+		"name": "board_w2d1_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #2: Dive inside the repairman's mind and erase the Noise"
+	},
+	{
+		"name": "board_w2d1_T12_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We've gotta get the repairman to fix the screen"
+	},
+	{
+		"name": "board_w2d1_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #2: Enter the code into the vending machine"
+	},
+	{
+		"name": "board_w2d1_T13_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The <MK_11>designated digits<MK_11> should be the number of corners in the shapes"
+	},
+	{
+		"name": "board_w2d1_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the third riddle"
+	},
+	{
+		"name": "board_w2d1_T14_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper sent us a message..."
+	},
+	{
+		"name": "board_w2d1_T14_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Capture differing poses with your comrades in a photo sticker.<MK_11>"
+	},
+	{
+		"name": "board_w2d1_T14_m2_1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Today's journey shall serve as your key.<MK_11>"
+	},
+	{
+		"name": "board_w2d1_T14_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If our <MK_11>journey<MK_11> is the <MK_11>key,<MK_11> then we'll probably have to do a little wandering first..."
+	},
+	{
+		"name": "board_w2d1_T14_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Probably better to table this riddle until we've finished with the other two"
+	},
+	{
+		"name": "board_w2d1_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Riddle #3: Head to the photo sticker spot"
+	},
+	{
+		"name": "board_w2d1_T15_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Mr. Mew was striking different poses on the hoodie, wallet, bag, and drink"
+	},
+	{
+		"name": "board_w2d1_T15_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess we've gotta pose like Mr. Mew did on all that merch"
+	},
+	{
+		"name": "board_w2d1_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Return to the Reaper near the exit of Takeshita Street"
+	},
+	{
+		"name": "board_w2d1_T17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Eliminate the target near TOKYU PLAZA"
+	},
+	{
+		"name": "board_w2d2_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sniff out clues about Neku around the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d1_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Let's see what we've got so far..."
+	},
+	{
+		"name": "board_w2d1_T1_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Heard a rumor that he might be in Udagawa or near<BR>O-EAST"
+	},
+	{
+		"name": "board_w2d1_T1_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently, someone spotted him at TOKYU PLAZA"
+	},
+	{
+		"name": "board_w2d1_T1_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Word is somebody saw him over by Cat Street"
+	},
+	{
+		"name": "board_w2d2_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for Neku over by TOKYU PLAZA"
+	},
+	{
+		"name": "board_w2d2_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 3-reduction chain battle near TOWER RECORDS, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d2_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between TOWER RECORDS<BR>and Cat Street"
+	},
+	{
+		"name": "board_w2d2_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Wear a Karma Shoulder Bag from <CRE>JotM</C>, then show it to the Reaper"
+	},
+	{
+		"name": "board_w2d2_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Cat Street and TOKYU PLAZA"
+	},
+	{
+		"name": "board_w2d2_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We won't be able to shop at JotM until Modoriyama gets back to the shop"
+	},
+	{
+		"name": "board_w2d2_T4_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Now that Modoriyama's back, we can buy the clothes we need to complete the mission"
+	},
+	{
+		"name": "board_w2d2_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find Modoriyama"
+	},
+	{
+		"name": "board_w2d2_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Modoriyama's thoughts"
+	},
+	{
+		"name": "board_w2d2_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint Modoriyama with the idea to head back to the shop"
+	},
+	{
+		"name": "board_w2d2_T7_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Modoriyama thinks he dropped his phone somewhere, but he really just left it outside the shop"
+	},
+	{
+		"name": "board_w2d2_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head back to the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d2_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find where Tsugumi and Neku are gonna fight"
+	},
+	{
+		"name": "board_w2d2_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the Purehearts said Neku's not around 104 or<BR>O-EAST"
+	},
+	{
+		"name": "board_w2d2_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "An RG resident saw a hooded guy heading toward Dogenzaka"
+	},
+	{
+		"name": "board_w2d2_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "No one's seen Neku in Dogenzaka"
+	},
+	{
+		"name": "board_w2d2_T9_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "One of the Variabeauties said <MK_11>Neku<MK_11> beat them up over on Center Street"
+	},
+	{
+		"name": "board_w2d2_T9_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "After that, <MK_11>Neku<MK_11> apparently made his way over to Spain Hill"
+	},
+	{
+		"name": "board_w2d2_T9_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Neku<MK_11> headed toward Tipsy Tose Hall after beating up the Pureheart on Spain Hill"
+	},
+	{
+		"name": "board_w2d2_T9_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "That Variabeauty claimed <MK_11>Neku<MK_11> hasn't been near<BR>SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w2d2_T9_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Neku<MK_11> was spotted near Shibuya Hikarie"
+	},
+	{
+		"name": "board_w2d2_T9_m9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like <MK_11>Neku<MK_11> made for the Expressway Underpass after leaving Shibuya Hikarie"
+	},
+	{
+		"name": "board_w2d2_T9_m10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Pureheart saw <MK_11>Neku<MK_11> at the Expressway Underpass,<BR>but who knows where he is now"
+	},
+	{
+		"name": "board_w2d2_T9_m11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone claimed they took down <MK_11>Neku<MK_11> at Tipsy Tose<BR>Hall, but it was a false lead"
+	},
+	{
+		"name": "board_w2d2_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search the area around 104 for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the person Fret scanned"
+	},
+	{
+		"name": "board_w2d2_T11_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently he spotted someone suspicious..."
+	},
+	{
+		"name": "board_w2d2_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Dogenzaka for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d2_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Center Street for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive inside the girl's mind and erase the Noise"
+	},
+	{
+		"name": "board_w2d2_T15_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess some Noise possessed one of the Variabeauties' old friends"
+	},
+	{
+		"name": "board_w2d2_T15_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we erase that Noise for him, then he'll tell us what he knows about Neku"
+	},
+	{
+		"name": "board_w2d2_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Spain Hill for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Tipsy Tose Hall for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T18",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d2_T19",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search Shibuya Hikarie for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search the Expressway Underpass for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T21",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind the Pureheart about Neku"
+	},
+	{
+		"name": "board_w2d2_T21_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "This guy is so shook, he can't remember anything about Neku"
+	},
+	{
+		"name": "board_w2d2_T22",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Search the West Exit Bus Terminal for info on Neku"
+	},
+	{
+		"name": "board_w2d2_T23",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d2_T24",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Figure out where Tsugumi fought Neku"
+	},
+	{
+		"name": "board_w2d2_T24_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Neku<MK_11> could have followed the yellow arrow..."
+	},
+	{
+		"name": "board_w2d2_T24_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Or maybe <MK_11>Neku<MK_11> followed the blue arrow?"
+	},
+	{
+		"name": "board_w2d2_T24_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Neku<MK_11> could have also followed the red arrow"
+	},
+	{
+		"name": "board_w2d2_T24_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A. <MK_11>Neku<MK_11> left Center Street and went to Spain Hill"
+	},
+	{
+		"name": "board_w2d2_T24_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "B. <MK_11>Neku<MK_11> left Spain Hill and went to Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d2_T24_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "C. At Tipsy Tose Hall, we learned Neku didn't go to SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w2d2_T24_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "D-1. Neku didn't go to 104 or O-EAST"
+	},
+	{
+		"name": "board_w2d2_T24_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "D-2. An RG resident near 104 saw <MK_11>Neku<MK_11> heading toward Dogenzaka"
+	},
+	{
+		"name": "board_w2d2_T24_m9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "E. No one's seen <MK_11>Neku<MK_11> in Dogenzaka"
+	},
+	{
+		"name": "board_w2d2_T24_m10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "F. <MK_11>Neku<MK_11> crossed the Scramble Crossing, went to Shibuya Hikarie, then the Expressway Underpass"
+	},
+	{
+		"name": "board_w2d2_T24_m11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "G. Not sure where <MK_11>Neku<MK_11> went after going to the Expressway Underpass"
+	},
+	{
+		"name": "board_w2d2_T24_m12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "H. We haven't gone to SHIBUYA STREAM, but the Variabeauties claim Neku's not there"
+	},
+	{
+		"name": "board_w2d2_T24_m13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I. Apparently, the <MK_11>Neku<MK_11> seen at Tipsy Tose Hall wasn't the real deal"
+	},
+	{
+		"name": "board_w2d2_T24_1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head back to the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w2d2_T24_1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gotta find where Neku and Tsugumi are gonna face off"
+	},
+	{
+		"name": "board_w2d2_T25",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate"
+	},
+	{
+		"name": "board_w2d2_T25_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Neku's gotta be at the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w2d3_T0",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Center Street, the Scramble Crossing, and TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d3_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Center Street"
+	},
+	{
+		"name": "board_w2d3_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d3_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d3_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around 104 or Shibuya Hikarie"
+	},
+	{
+		"name": "board_w2d3_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We gotta stop the Variabeauties and the Purehearts"
+	},
+	{
+		"name": "board_w2d3_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They're meeting up at the area without any restaurants"
+	},
+	{
+		"name": "board_w2d3_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around Shibuya Hikarie"
+	},
+	{
+		"name": "board_w2d3_T5_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the areas around 104 and the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d3_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around 104"
+	},
+	{
+		"name": "board_w2d3_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d3_T7_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Team up with Beat to take the Variabeauties' turf"
+	},
+	{
+		"name": "board_w2d3_T7_5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The 'Beauties have a hold on Dogenzaka and the area around O-EAST"
+	},
+	{
+		"name": "board_w2d3_T7_5_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Fret and Nagi can handle the Purehearts...and hopefully each other"
+	},
+	{
+		"name": "board_w2d3_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Dogenzaka"
+	},
+	{
+		"name": "board_w2d3_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around <g>O-EAST</g>"
+	},
+	{
+		"name": "board_w2d3_T9_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the remaining areas"
+	},
+	{
+		"name": "board_w2d3_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w2d3_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the Expressway Underpass"
+	},
+	{
+		"name": "board_w2d3_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Dogenzaka"
+	},
+	{
+		"name": "board_w2d3_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around O-EAST"
+	},
+	{
+		"name": "board_w2d3_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take back Center Street"
+	},
+	{
+		"name": "board_w2d3_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take back the area around 104"
+	},
+	{
+		"name": "board_w2d4_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head for Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d4_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Investigate the urban legends and report back to the Reaper"
+	},
+	{
+		"name": "board_w2d4_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seven urban legends for seven areas, and we gotta find<BR>out the truth behind them all"
+	},
+	{
+		"name": "board_w2d4_T2_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper on Center Street is gonna give us points for the truths we uncover"
+	},
+	{
+		"name": "board_w2d4_T2_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we earn 100 points, the Reaper'll let us through to Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d4_T2_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The urban legends we've reported thus far are..."
+	},
+	{
+		"name": "board_w2d4_T2_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend near Shibuya Hikarie for 35 points"
+	},
+	{
+		"name": "board_w2d4_T2_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend near O-EAST for 32 points"
+	},
+	{
+		"name": "board_w2d4_T2_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend on Cat Street for 25 points"
+	},
+	{
+		"name": "board_w2d4_T2_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend at the Scramble Crossing for 40 points"
+	},
+	{
+		"name": "board_w2d4_T2_m9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend on Spain Hill for 30 points"
+	},
+	{
+		"name": "board_w2d4_T2_m10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend near 104 for 28 points"
+	},
+	{
+		"name": "board_w2d4_T2_m11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend on Center Street for 30 points"
+	},
+	{
+		"name": "board_w2d4_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of Shibuya Hikarie's urban legend"
+	},
+	{
+		"name": "board_w2d4_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend says that those who follow the graffiti arrows vanish without a trace"
+	},
+	{
+		"name": "board_w2d4_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend near Shibuya Hikarie and see what they know"
+	},
+	{
+		"name": "board_w2d4_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out the arrows on the overpass by Shibuya Hikarie for info on the legend"
+	},
+	{
+		"name": "board_w2d4_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for more arrows at the Expressway Underpass to learn about Shibuya Hikarie's legend"
+	},
+	{
+		"name": "board_w2d4_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Investigate the strange arrows to dig deeper into Shibuya Hikarie's urban legend"
+	},
+	{
+		"name": "board_w2d4_T7_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Four arrows are pointing in all different directions. Which one do we follow?"
+	},
+	{
+		"name": "board_w2d4_T7_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found a code next to the arrows..."
+	},
+	{
+		"name": "board_w2d4_T7_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the arrow pointing left from the fortress that<BR>houses those who protect this area"
+	},
+	{
+		"name": "board_w2d4_T7_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Only way to know which arrow's pointing the right way is to figure out what the <MK_11>fortress<MK_11> is"
+	},
+	{
+		"name": "board_w2d4_T7_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A: The <MK_11>fortress<MK_11> might be referring to Ryoji's store"
+	},
+	{
+		"name": "board_w2d4_T7_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "B: The <MK_11>fortress<MK_11> might be referring to the police station"
+	},
+	{
+		"name": "board_w2d4_T7_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "C: The <MK_11>fortress<MK_11> might be referring to the dentist"
+	},
+	{
+		"name": "board_w2d4_T7_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Nagi's added some info to the map"
+	},
+	{
+		"name": "board_w2d4_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head for the West Exit Bus Terminal to uncover the truth about Shibuya Hikarie's urban legend"
+	},
+	{
+		"name": "board_w2d4_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Looks like the arrow's pointed toward the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w2d4_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about Shibuya Hikarie's urban legend"
+	},
+	{
+		"name": "board_w2d4_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found out the truth about the urban legend..."
+	},
+	{
+		"name": "board_w2d4_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Reaper was responsible for the arrow graffiti"
+	},
+	{
+		"name": "board_w2d4_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "He would lure the unsuspecting people from the RG onto a random bus and watch them freak out"
+	},
+	{
+		"name": "board_w2d4_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of O-EAST's urban legend"
+	},
+	{
+		"name": "board_w2d4_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The legend says that..."
+	},
+	{
+		"name": "board_w2d4_T10_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "People who throw their garbage away in the wrong trash can are cursed by a red raven"
+	},
+	{
+		"name": "board_w2d4_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Jog some memories near O-EAST and dig up info on the urban legend"
+	},
+	{
+		"name": "board_w2d4_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out the trash cans to learn more about O-EAST's urban legend"
+	},
+	{
+		"name": "board_w2d4_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the guy heading for Dogenzaka to find out more about O-EAST's urban legend"
+	},
+	{
+		"name": "board_w2d4_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive inside the man's mind and erase the Noise to get to the bottom of O-EAST's urban legend"
+	},
+	{
+		"name": "board_w2d4_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about O-EAST's urban legend"
+	},
+	{
+		"name": "board_w2d4_T15_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found out the truth behind the urban legend..."
+	},
+	{
+		"name": "board_w2d4_T15_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The red raven was really just a Noise"
+	},
+	{
+		"name": "board_w2d4_T15_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The bird, drawn to shiny cans and bottles, was possessing people so it could collect more"
+	},
+	{
+		"name": "board_w2d4_T15_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Noise-possessed people were throwing themselves into traffic to grab more shiny stuff"
+	},
+	{
+		"name": "board_w2d4_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of Cat Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T16_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Legend says that you can hear the voices of the dead if you step into a telephone pole's shadow"
+	},
+	{
+		"name": "board_w2d4_T17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend on Cat Street and see what they know"
+	},
+	{
+		"name": "board_w2d4_T18",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out the telephone pole near Jupiter of the Monkey to learn about Cat Street's legend"
+	},
+	{
+		"name": "board_w2d4_T18_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "There's something weird about the telephone pole near Jupiter of the Monkey"
+	},
+	{
+		"name": "board_w2d4_T19",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan people in the area to find out more about Cat Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T19_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Only people directly in front of the telephone pole can hear the voices of the dead"
+	},
+	{
+		"name": "board_w2d4_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the people who can hear the voices to uncover the truth about Cat Street's legend"
+	},
+	{
+		"name": "board_w2d4_T21",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about Cat Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T21_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Turns out it was just a prank someone was pulling using a directional speaker"
+	},
+	{
+		"name": "board_w2d4_T22",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of the Scramble Crossing's urban legend"
+	},
+	{
+		"name": "board_w2d4_T22_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The legend says that..."
+	},
+	{
+		"name": "board_w2d4_T22_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "There's a place that appears for a split second on the jumbotron in the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d4_T22_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If you go there and walk in a counterclockwise circle one time, you'll die seven days later"
+	},
+	{
+		"name": "board_w2d4_T23",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend at the Scramble Crossing and see what they know"
+	},
+	{
+		"name": "board_w2d4_T24",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the jumbotron at the Scramble Crossing and see what they know"
+	},
+	{
+		"name": "board_w2d4_T24_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The screen displayed an image of a building with an arch"
+	},
+	{
+		"name": "board_w2d4_T24_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The screen displayed an image of a building between two roads"
+	},
+	{
+		"name": "board_w2d4_T24_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The screen displayed an image of a building with plants growing on the walls"
+	},
+	{
+		"name": "board_w2d4_T25",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the place shown on the jumbotron to learn about the Scramble Crossing's urban legend"
+	},
+	{
+		"name": "board_w2d4_T26",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about the Scramble Crossing's urban legend"
+	},
+	{
+		"name": "board_w2d4_T26_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found out the truth about the urban legend..."
+	},
+	{
+		"name": "board_w2d4_T26_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Reaper was doing backdoor deals with Players"
+	},
+	{
+		"name": "board_w2d4_T26_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Walking counterclockwise around the pillar in MODI was the go sign"
+	},
+	{
+		"name": "board_w2d4_T27",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of Spain Hill's urban legend"
+	},
+	{
+		"name": "board_w2d4_T27_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The legend says that..."
+	},
+	{
+		"name": "board_w2d4_T27_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If you step on the 18th step on Spain Hill, you go straight to hell"
+	},
+	{
+		"name": "board_w2d4_T28",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend on Spain Hill and see what they know"
+	},
+	{
+		"name": "board_w2d4_T29",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out the stairs on Spain Hill to see what the deal is with the urban legend"
+	},
+	{
+		"name": "board_w2d4_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the woman who tripped to uncover the truth about Spain Hill's urban legend"
+	},
+	{
+		"name": "board_w2d4_T31",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about Spain Hill's urban legend"
+	},
+	{
+		"name": "board_w2d4_T31_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found out the truth behind the urban legend..."
+	},
+	{
+		"name": "board_w2d4_T31_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Some scorpion-shaped Noise was haunting the steps, stinging anyone who tripped"
+	},
+	{
+		"name": "board_w2d4_T32",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of 104's urban legend"
+	},
+	{
+		"name": "board_w2d4_T32_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The legend says we'll be cursed if we step on a certain white line in the crosswalk outside 104"
+	},
+	{
+		"name": "board_w2d4_T33",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend around 104 and see what they know"
+	},
+	{
+		"name": "board_w2d4_T34",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake out the crosswalk and find out what's up with 104's urban legend"
+	},
+	{
+		"name": "board_w2d4_T35",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to the Player who's acting suspicious to reveal the mystery of 104's urban legend"
+	},
+	{
+		"name": "board_w2d4_T36",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about 104's urban legend"
+	},
+	{
+		"name": "board_w2d4_T36_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The truth is one of the Purehearts was just imprinting people with ideas and controlling them"
+	},
+	{
+		"name": "board_w2d4_T37",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the mystery of Center Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T37_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The legend says that..."
+	},
+	{
+		"name": "board_w2d4_T37_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "People who use the changing rooms in Center Street<BR>shops vanish right before the clerks' eyes"
+	},
+	{
+		"name": "board_w2d4_T38",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people of the urban legend on Center Street and see what they know"
+	},
+	{
+		"name": "board_w2d4_T39",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out HOG FANG to dig deeper into Center Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out Shepherd House to dig deeper still into Center Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T41",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to the Player who left the shop to figure out what's behind Center Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T42",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Reaper about Center Street's urban legend"
+	},
+	{
+		"name": "board_w2d4_T42_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We found out the truth behind the urban legend..."
+	},
+	{
+		"name": "board_w2d4_T42_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A Player was running off with clothes they changed into in the dressing rooms"
+	},
+	{
+		"name": "board_w2d4_T42_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Player would disappear the moment they got outside, which is how the rumor started"
+	},
+	{
+		"name": "board_w2d4_T43",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the target at Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d5_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to O-EAST"
+	},
+	{
+		"name": "board_w2d5_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the specified Noise symbol, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d5_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between the Expressway Underpass and Shibuya Hikarie"
+	},
+	{
+		"name": "board_w2d5_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the specified Noise symbol, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d5_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between the Expressway Underpass and the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w2d5_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Collect pin No. 270, Flyin' High, then speak with the Reaper"
+	},
+	{
+		"name": "board_w2d5_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between O-EAST and 104"
+	},
+	{
+		"name": "board_w2d5_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The raven-looking Noise, Nefastraven, should drop the pin we need"
+	},
+	{
+		"name": "board_w2d5_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 2-reduction chain battle near 104, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d5_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between 104 and Dogenzaka"
+	},
+	{
+		"name": "board_w2d5_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 4-reduction chain battle in Dogenzaka, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d5_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Dogenzaka and O-EAST"
+	},
+	{
+		"name": "board_w2d5_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the key hidden near TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d5_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Our hint is: <MK_11>The key is marked on the back of the ten-numbered one.<MK_11>"
+	},
+	{
+		"name": "board_w2d5_T8_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out the phone booth"
+	},
+	{
+		"name": "board_w2d5_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the key hidden in the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d5_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Guess they gotta hunt down this rando, but where could this person be?"
+	},
+	{
+		"name": "board_w2d5_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check the area around the bookstore"
+	},
+	{
+		"name": "board_w2d5_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check the area behind the Hachiko statue"
+	},
+	{
+		"name": "board_w2d5_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the key hidden in the Expressway Underpass"
+	},
+	{
+		"name": "board_w2d5_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the five differences between the picture I sent and what the team can see"
+	},
+	{
+		"name": "board_w2d5_T10_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "This is the answer sheet we received"
+	},
+	{
+		"name": "board_w2d5_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the key hidden at Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d5_T11_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Our hint is: <MK_11>From east to west, from southwest to north, from northwest to southeast..."
+	},
+	{
+		"name": "board_w2d5_T11_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>...when three lenses align, one will reveal your guide."
+	},
+	{
+		"name": "board_w2d5_T11_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Find the guide, find the key.<MK_11>"
+	},
+	{
+		"name": "board_w2d5_T11_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check the front of the police station using the east camera"
+	},
+	{
+		"name": "board_w2d5_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Solve the puzzle to break me free"
+	},
+	{
+		"name": "board_w2d5_T12_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Our hint is: <MK_11>Swim up the Onden River from the Shibuya River, then float down the Udagawa and Shibuya River.<MK_11>"
+	},
+	{
+		"name": "board_w2d5_T12_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "So, we gotta fill in the six blanks with the four letters?"
+	},
+	{
+		"name": "board_w2d5_T12_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Here are the letters and places where we found them:"
+	},
+	{
+		"name": "board_w2d5_T12_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A: TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d5_T12_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "E: The Scramble Crossing"
+	},
+	{
+		"name": "board_w2d5_T12_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "R: The Expressway Underpass"
+	},
+	{
+		"name": "board_w2d5_T12_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "P: Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d5_T12_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The answer is: R-E-A-P-E-R"
+	},
+	{
+		"name": "board_w2d5_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the target in the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d6_T0",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on every area and win the Scramble Slam"
+	},
+	{
+		"name": "board_w2d6_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on Spain Hill"
+	},
+	{
+		"name": "board_w2d6_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Stake our claim on the area around Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d6_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Re-stake our claim on Center Street"
+	},
+	{
+		"name": "board_w2d6_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find Shoka"
+	},
+	{
+		"name": "board_w2d6_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head for SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w2d6_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Apparently that's where Motoi and Shoka are"
+	},
+	{
+		"name": "board_w2d6_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate and save Motoi"
+	},
+	{
+		"name": "board_w2d6_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we don't get to SHIBUYA STREAM soon, Motoi's toast"
+	},
+	{
+		"name": "board_w2d6_T6_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gotta take all this turf quickly so SHIBUYA STREAM opens up"
+	},
+	{
+		"name": "board_w2d6_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the Players hiding on Center Street"
+	},
+	{
+		"name": "board_w2d6_T7_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Purehearts have gotta be lurking around here somewhere..."
+	},
+	{
+		"name": "board_w2d6_T7_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Might be able to find the Players if we scan the area and peek inside people's heads"
+	},
+	{
+		"name": "board_w2d6_T7_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We busted up the scheming Purehearts which should have saved us some time"
+	},
+	{
+		"name": "board_w2d6_T7_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate and return to SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w2d6_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Claim Spain Hill as fast as we can"
+	},
+	{
+		"name": "board_w2d6_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Just gotta stop their pincer attack"
+	},
+	{
+		"name": "board_w2d6_T8_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We foiled the Purehearts' pincer plot, which should have won us some time"
+	},
+	{
+		"name": "board_w2d6_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Claim the area around Tipsy Tose Hall as fast as we can"
+	},
+	{
+		"name": "board_w2d6_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We wiped them out, which should have won us some time"
+	},
+	{
+		"name": "board_w2d7_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find Motoi"
+	},
+	{
+		"name": "board_w2d7_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Motoi sent us a picture, but where could he be?"
+	},
+	{
+		"name": "board_w2d7_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase three of the specified Noise symbols, then return to the Reaper"
+	},
+	{
+		"name": "board_w2d7_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between TOWER RECORDS and Cat Street"
+	},
+	{
+		"name": "board_w2d7_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show that Reaper a <CRE>Gatto Nero</C> ensemble"
+	},
+	{
+		"name": "board_w2d7_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between 104 and Dogenzaka"
+	},
+	{
+		"name": "board_w2d7_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gatto Nero's got a store in 104"
+	},
+	{
+		"name": "board_w2d7_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi and head to O-EAST"
+	},
+	{
+		"name": "board_w2d7_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Some of the Purehearts spotted Susukichi near O-EAST"
+	},
+	{
+		"name": "board_w2d7_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head toward 104 and look for Susukichi"
+	},
+	{
+		"name": "board_w2d7_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi and head to the Scramble Crossing"
+	},
+	{
+		"name": "board_w2d7_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi and head toward TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d7_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper's blocking our way to TOWER RECORDS, so we'll have to go through Center Street"
+	},
+	{
+		"name": "board_w2d7_T8_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The way into Spain Hill's been blocked, so we'll have to use the streets around Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w2d7_T8_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the area for a Telewarp point"
+	},
+	{
+		"name": "board_w2d7_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Take down Susukichi before the Variabeauties lose"
+	},
+	{
+		"name": "board_w2d7_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We gotta beat Susukichi in front of TOWER RECORDS before Tsugumi beats the Variabeauties"
+	},
+	{
+		"name": "board_w2d7_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "There must be some way to get the Reapers off our tail..."
+	},
+	{
+		"name": "board_w2d7_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Shoka seems to have an idea... Should we go along with it?"
+	},
+	{
+		"name": "board_w2d7_T9_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We gave the Reapers the slip! Now we can get to TOWER RECORDS"
+	},
+	{
+		"name": "board_w2d7_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the West Exit Bus Terminal and help Kanon"
+	},
+	{
+		"name": "board_w3d1_T0",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gather intel on the Plague Noise"
+	},
+	{
+		"name": "board_w3d1_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet up with Kanon near TOKYU PLAZA"
+	},
+	{
+		"name": "board_w3d1_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d1_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dig up info on the Plague Noise"
+	},
+	{
+		"name": "board_w3d1_T3_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Several people experienced sightings near Taiseido"
+	},
+	{
+		"name": "board_w3d1_T3_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Plague Noise seem to react to a certain type of light"
+	},
+	{
+		"name": "board_w3d1_T3_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Looks like they react to a bug-zapping blacklight"
+	},
+	{
+		"name": "board_w3d1_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind people and dig up info on the Plague Noise"
+	},
+	{
+		"name": "board_w3d1_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Maybe some people at the Scramble Crossing encountered the Plague Noise"
+	},
+	{
+		"name": "board_w3d1_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head toward Taiseido"
+	},
+	{
+		"name": "board_w3d1_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Hear what the Variabeauty outside O-EAST has to say"
+	},
+	{
+		"name": "board_w3d1_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Hear what the Variabeauty near Shibuya Hikarie has to say"
+	},
+	{
+		"name": "board_w3d1_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive into the mind of the person who witnessed something and dig for info"
+	},
+	{
+		"name": "board_w3d1_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet up with Kanon at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d1_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Here's what we've found out so far..."
+	},
+	{
+		"name": "board_w3d1_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Several people experienced sightings near Taiseido"
+	},
+	{
+		"name": "board_w3d1_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They react to some kind of light"
+	},
+	{
+		"name": "board_w3d1_T9_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Looks like they react to a bug-zapping blacklight"
+	},
+	{
+		"name": "board_w3d1_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Buy a blacklight at TOKYU HANDS"
+	},
+	{
+		"name": "board_w3d1_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Blacklights might be effective against the Plague Noise... Let's buy one at TOKYU HANDS"
+	},
+	{
+		"name": "board_w3d1_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Make a run for it and escape from Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d1_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the mirrors at the TOKYU PLAZA entrance"
+	},
+	{
+		"name": "board_w3d1_T12_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We've gotta do something about all the Plague Noise"
+	},
+	{
+		"name": "board_w3d2_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head toward 104"
+	},
+	{
+		"name": "board_w3d2_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to the Reaper on the roof of 104"
+	},
+	{
+		"name": "board_w3d2_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind the Reaper about Ayano"
+	},
+	{
+		"name": "board_w3d2_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dig up info on Ayano at Center Street"
+	},
+	{
+		"name": "board_w3d2_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Chase down the fleeing Reaper"
+	},
+	{
+		"name": "board_w3d2_T5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like the Reaper fled toward Spain Hill"
+	},
+	{
+		"name": "board_w3d2_T5_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like the Reaper fled toward TOWER RECORDS"
+	},
+	{
+		"name": "board_w3d2_T5_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like the Reaper fled to the top of the building next<BR>to TOWER RECORDS"
+	},
+	{
+		"name": "board_w3d2_T5_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Use Shoka's Telewarp to follow the Reaper to the roof"
+	},
+	{
+		"name": "board_w3d2_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet Ayano in MIYASHITA PARK"
+	},
+	{
+		"name": "board_w3d2_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase five of the specified Noise symbols, then return to the Reaper"
+	},
+	{
+		"name": "board_w3d2_T7_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between Dogenzaka and 104"
+	},
+	{
+		"name": "board_w3d2_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 4-reduction chain battle at the Scramble Crossing, then report to the Reaper"
+	},
+	{
+		"name": "board_w3d2_T8_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting near the wall between the Scramble Crossing and Center Street"
+	},
+	{
+		"name": "board_w3d2_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Make sure Shoka is ready to confront Ayano"
+	},
+	{
+		"name": "board_w3d2_T9_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Recruiting Ayano's off the table, so I've gotta prepare Shoka for the worst..."
+	},
+	{
+		"name": "board_w3d2_T9_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Did all I could to convince Shoka, but she's gotta make up her own mind..."
+	},
+	{
+		"name": "board_w3d2_T9_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Think Shoka and I had a good talk at Dogenzaka"
+	},
+	{
+		"name": "board_w3d2_T9_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Is that really gonna cut it? Maybe I should talk to her a bit more at Dogenzaka..."
+	},
+	{
+		"name": "board_w3d2_T9_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I really screwed up our talk at Dogenzaka... Gotta try that again!"
+	},
+	{
+		"name": "board_w3d2_T9_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Think Shoka and I had a good talk outside 104"
+	},
+	{
+		"name": "board_w3d2_T9_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Is that really gonna cut it? Maybe I should talk to her a bit more outside 104..."
+	},
+	{
+		"name": "board_w3d2_T9_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I really screwed up our talk outside 104... Gotta try that again!"
+	},
+	{
+		"name": "board_w3d2_T9_m9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Think Shoka and I had a good talk on Center Street"
+	},
+	{
+		"name": "board_w3d2_T9_m10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Is that really gonna cut it? Maybe I should talk to her a bit more on Center Street..."
+	},
+	{
+		"name": "board_w3d2_T9_m11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I really screwed up our talk on Center Street... Gotta try that again!"
+	},
+	{
+		"name": "board_w3d2_T9_m12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Think Shoka and I had a good talk near TOWER RECORDS"
+	},
+	{
+		"name": "board_w3d2_T9_m13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Is that really gonna cut it? Maybe I should talk to her a bit more near TOWER RECORDS..."
+	},
+	{
+		"name": "board_w3d2_T9_m14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I really screwed up our talk at TOWER RECORDS... Gotta try that again!"
+	},
+	{
+		"name": "board_w3d2_T9_m15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Think Shoka and I had a good talk at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d2_T9_m16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Is that really gonna cut it? Maybe I should talk to her a bit more at the Scramble Crossing..."
+	},
+	{
+		"name": "board_w3d2_T9_m17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I really screwed up our talk at the Scramble Crossing... Gotta try that again!"
+	},
+	{
+		"name": "board_w3d3_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Figure out what's going on"
+	},
+	{
+		"name": "board_w3d3_T1_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "I turned back time, but why can't I remember anything? Why'd Fret attack me?"
+	},
+	{
+		"name": "board_w3d3_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dig up info on the <MK_11>strange Noise<MK_11>"
+	},
+	{
+		"name": "board_w3d3_T2_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Kanon texted me about the <MK_11>strange Noise<MK_11> at the start of the day"
+	},
+	{
+		"name": "board_w3d3_T2_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "But it's been radio silence from her ever since, so everyone split up to look for her"
+	},
+	{
+		"name": "board_w3d3_T2_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Getting attacked by that Noise wipes your memories"
+	},
+	{
+		"name": "board_w3d3_T2_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "People possessed by that Noise wind up viewing others as enemies"
+	},
+	{
+		"name": "board_w3d3_T2_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Getting possessed by that Noise speeds up the Shibuya Syndrome"
+	},
+	{
+		"name": "board_w3d3_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d3_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind the Variabeauty about the Noise to jog his memory"
+	},
+	{
+		"name": "board_w3d3_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the Noise that attacked the Variabeauty"
+	},
+	{
+		"name": "board_w3d3_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at Dogenzaka"
+	},
+	{
+		"name": "board_w3d3_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for the missing Variabeauty"
+	},
+	{
+		"name": "board_w3d3_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for the Variabeauty who disappeared down the alley"
+	},
+	{
+		"name": "board_w3d3_T10_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We might be able to figure something out if I scan the area"
+	},
+	{
+		"name": "board_w3d3_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at Cat Street"
+	},
+	{
+		"name": "board_w3d3_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Look for info about the Noise on Cat Street"
+	},
+	{
+		"name": "board_w3d3_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive inside Ryoji's mind and erase the Noise"
+	},
+	{
+		"name": "board_w3d3_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were on Center Street"
+	},
+	{
+		"name": "board_w3d3_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk with the gang when we were at SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w3d3_T15_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Here's what we've collected about this <MK_11>strange Noise<MK_11> so far..."
+	},
+	{
+		"name": "board_w3d3_T15_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Getting attacked by this Noise wipes your memories"
+	},
+	{
+		"name": "board_w3d3_T15_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "People possessed by this Noise wind up viewing others as enemies"
+	},
+	{
+		"name": "board_w3d3_T15_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Getting possessed by this new Noise speeds up the Shibuya Syndrome"
+	},
+	{
+		"name": "board_w3d3_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate"
+	},
+	{
+		"name": "board_w3d4_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head toward Cat Street"
+	},
+	{
+		"name": "board_w3d4_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Listen to what Kubo has to say near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d4_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Kubo to Udagawa"
+	},
+	{
+		"name": "board_w3d4_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Plague Noise proliferating in MIYASHITA PARK"
+	},
+	{
+		"name": "board_w3d4_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Kubo to Udagawa"
+	},
+	{
+		"name": "board_w3d4_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate and turn the tables on Kubo"
+	},
+	{
+		"name": "board_w3d4_T6_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we don't do something about the Plague Noise, Shibuya Syndrome'll get outta hand"
+	},
+	{
+		"name": "board_w3d4_T6_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We stopped the Plague Noise from multiplying, but will it be enough to change our fate?"
+	},
+	{
+		"name": "board_w3d4_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find the source of the Plague Noise in MIYASHITA PARK"
+	},
+	{
+		"name": "board_w3d5_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to Cat Street"
+	},
+	{
+		"name": "board_w3d5_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet up with Neku's Reaper friend"
+	},
+	{
+		"name": "board_w3d6_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi to the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d6_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi to the Expressway Underpass"
+	},
+	{
+		"name": "board_w3d6_T2_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Win a 5-reduction chain battle at the Scramble Crossing, then return to the Reaper"
+	},
+	{
+		"name": "board_w3d6_T2_5_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "They'll be waiting between the Scramble Crossing and the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w3d6_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi to SHIBUYA STREAM"
+	},
+	{
+		"name": "board_w3d6_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head down into the Shibuya River"
+	},
+	{
+		"name": "board_w3d6_T4_5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Have Shoka warp us down to the river, then head inside"
+	},
+	{
+		"name": "board_w3d6_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Avoid getting trapped in the Shibuya River"
+	},
+	{
+		"name": "board_w3d6_T5_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We shouldn't get trapped now that I convinced them not to head into the river tunnel"
+	},
+	{
+		"name": "board_w3d6_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow Susukichi to the Expressway Underpass"
+	},
+	{
+		"name": "board_w3d7_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Settle the score with Shiba at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d7_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Meet Kaie in Udagawa"
+	},
+	{
+		"name": "board_w3d7_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Settle the score with Shiba at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d8_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Reason with Shiba at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d8_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk with Kaie in Udagawa"
+	},
+	{
+		"name": "board_w3d8_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk with Hishima near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d8_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dig up info on people willing to help"
+	},
+	{
+		"name": "board_w3d8_T4_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Beat was texting someone over by TOKYU PLAZA"
+	},
+	{
+		"name": "board_w3d8_T4_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We met Kariya and Uzuki on Cat Street"
+	},
+	{
+		"name": "board_w3d8_T4_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We talked with Coco outside TOWER RECORDS"
+	},
+	{
+		"name": "board_w3d8_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk with Hishima near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d8_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Reason with Shiba at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d8_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate"
+	},
+	{
+		"name": "board_w3d9_T1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around MIYASHITA PARK"
+	},
+	{
+		"name": "board_w3d9_T2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around Cat Street"
+	},
+	{
+		"name": "board_w3d9_T3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around the area near TOWER RECORDS"
+	},
+	{
+		"name": "board_w3d9_T4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around Spain Hill"
+	},
+	{
+		"name": "board_w3d9_T5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around Center Street"
+	},
+	{
+		"name": "board_w3d9_T6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around the area near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d9_T7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Show him around Udagawa"
+	},
+	{
+		"name": "board_w3d9_T8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Find a way to change our fate"
+	},
+	{
+		"name": "board_w3d9_T9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Kaie and Rhyme in Dogenzaka"
+	},
+	{
+		"name": "board_w3d9_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Hishima over by Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d9_T11",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Rewind to when we were at TOKYU PLAZA"
+	},
+	{
+		"name": "board_w3d9_T12",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Hishima over by Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d9_T13",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Lend Kariya a hand on Cat Street"
+	},
+	{
+		"name": "board_w3d9_T14",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Hishima over by Tipsy Tose Hall"
+	},
+	{
+		"name": "board_w3d9_T15",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Kaie and Rhyme in Dogenzaka"
+	},
+	{
+		"name": "board_w3d9_T16",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Reason with Shiba at the Scramble Crossing"
+	},
+	{
+		"name": "board_w3d9_T17",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Change our fate"
+	},
+	{
+		"name": "board_w4d1_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check out Shibuyapalooza outside 104"
+	},
+	{
+		"name": "board_w4d1_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sign up for the Reapers' Romp near Hachiko"
+	},
+	{
+		"name": "board_w4d1_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If we can complete the Reapers' Romp, we'll nab tickets to Shibuyapalooza!"
+	},
+	{
+		"name": "board_w4d1_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Collect stamps at the checkpoints around town"
+	},
+	{
+		"name": "board_w4d1_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Gotta collect stamps from three checkpoints then show them to the Reaper at Hachiko"
+	},
+	{
+		"name": "board_w4d1_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the checkpoint at the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_w4d1_T50",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the checkpoint at TOKYU PLAZA"
+	},
+	{
+		"name": "board_w4d1_T60",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Head to the checkpoint at MIYASHITA PARK"
+	},
+	{
+		"name": "board_w4d1_T70",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Present the stamps to Hishima at Hachiko"
+	},
+	{
+		"name": "board_sub01_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_sub01_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Eiji Oji to see what's bothering him"
+	},
+	{
+		"name": "board_sub01_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind him about the recipe"
+	},
+	{
+		"name": "board_sub01_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "His favorite joint closed down, so now he can't recreate the flavor"
+	},
+	{
+		"name": "board_sub02_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near 104"
+	},
+	{
+		"name": "board_sub02_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing Eiji Oji"
+	},
+	{
+		"name": "board_sub03_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Dogenzaka"
+	},
+	{
+		"name": "board_sub03_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check on the curry joint"
+	},
+	{
+		"name": "board_sub03_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing the curry shop owner"
+	},
+	{
+		"name": "board_sub04_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Dogenzaka"
+	},
+	{
+		"name": "board_sub04_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check on the curry joint"
+	},
+	{
+		"name": "board_sub04_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind the people of the Don's curry"
+	},
+	{
+		"name": "board_sub04_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the area to find out how people felt about the food"
+	},
+	{
+		"name": "board_sub04_T50",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Tell the Don what people think of his curry"
+	},
+	{
+		"name": "board_sub05_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Dogenzaka"
+	},
+	{
+		"name": "board_sub05_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Check in on the curry joint"
+	},
+	{
+		"name": "board_sub05_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint Buddy Rapids with a resolution to his misunderstanding"
+	},
+	{
+		"name": "board_sub05_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Report back to the Don at his curry shop"
+	},
+	{
+		"name": "board_sub06_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near TOKYU PLAZA"
+	},
+	{
+		"name": "board_sub06_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the troubled guy to find out what's wrong"
+	},
+	{
+		"name": "board_sub06_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint him with the idea to head to the alley"
+	},
+	{
+		"name": "board_sub06_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Follow the person heading toward the alley"
+	},
+	{
+		"name": "board_sub06_T50",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Dive inside the mind of the person who picked up the wallet and erase the Noise"
+	},
+	{
+		"name": "board_sub07_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near SHIBUYA STREAM"
+	},
+	{
+		"name": "board_sub07_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan the bickering couple to find out what's up"
+	},
+	{
+		"name": "board_sub07_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind Itsuki about studying abroad"
+	},
+	{
+		"name": "board_sub08_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near Shibuya Hikarie"
+	},
+	{
+		"name": "board_sub08_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Answer the quiz questions"
+	},
+	{
+		"name": "board_sub08_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "His quiz has three questions"
+	},
+	{
+		"name": "board_sub08_T20_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "First question..."
+	},
+	{
+		"name": "board_sub08_T20_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which of the following products is a palindrome:<BR>A) 72 x 27, B) 12 x 21, C) 55 x 55?"
+	},
+	{
+		"name": "board_sub08_T20_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "If it's a palindrome, then the number's gotta read the same forward and backward"
+	},
+	{
+		"name": "board_sub08_T20_m5",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Second question..."
+	},
+	{
+		"name": "board_sub08_T20_m6",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Which breed of dog has a bronze statue in front of Shibuya Station: A) Akita, B) Shiba, C) Chihuahua?"
+	},
+	{
+		"name": "board_sub08_T20_m7",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Pretty sure Hachiko's an Akita"
+	},
+	{
+		"name": "board_sub08_T20_m8",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The final question..."
+	},
+	{
+		"name": "board_sub08_T20_m9",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "What soared in the skies above Hachiko in 1951: A) Pegasus, B) a flying train, C) a cable car?"
+	},
+	{
+		"name": "board_sub08_T20_m10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems like there was a cable car in Shibuya back in the day"
+	},
+	{
+		"name": "board_sub09_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the West Exit Bus Terminal"
+	},
+	{
+		"name": "board_sub09_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Give Sumio some advice"
+	},
+	{
+		"name": "board_sub09_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "How should they respond to Motoi?"
+	},
+	{
+		"name": "board_sub10_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near Tipsy Tose Hall"
+	},
+	{
+		"name": "board_sub10_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Talk to Maito"
+	},
+	{
+		"name": "board_sub10_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind Maito what happened between him and Kanon"
+	},
+	{
+		"name": "board_sub11_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Scramble Crossing"
+	},
+	{
+		"name": "board_sub11_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise summoned by the Reaper"
+	},
+	{
+		"name": "board_sub12_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near Shibuya Hikarie"
+	},
+	{
+		"name": "board_sub12_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Come up with a new hobby for the Reaper"
+	},
+	{
+		"name": "board_sub12_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "The Reaper's in Kyoto Sweets Shibuya East over in<BR>Shibuya Hikarie"
+	},
+	{
+		"name": "board_sub13_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near TOWER RECORDS"
+	},
+	{
+		"name": "board_sub13_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan to see what's on this guy's mind"
+	},
+	{
+		"name": "board_sub13_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint to solve his troubles"
+	},
+	{
+		"name": "board_sub13_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Seems he's upset because his voice is mistaken for a girl's"
+	},
+	{
+		"name": "board_sub13_T30_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Should we follow Fret's advice and tell him not to worry about what others think?"
+	},
+	{
+		"name": "board_sub13_T30_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Should we follow Nagi's advice and tell him to accept who he is and find confidence within?"
+	},
+	{
+		"name": "board_sub14_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near O-EAST"
+	},
+	{
+		"name": "board_sub14_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan to find out what the fight's all about"
+	},
+	{
+		"name": "board_sub14_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind them about what the Prince said about Eiru"
+	},
+	{
+		"name": "board_sub15_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Expressway Underpass"
+	},
+	{
+		"name": "board_sub15_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Jog people's memories about the manic flower"
+	},
+	{
+		"name": "board_sub15_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan for people who reacted to the <MK_11>manic flower<MK_11> and locate machastree"
+	},
+	{
+		"name": "board_sub16_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Expressway Underpass"
+	},
+	{
+		"name": "board_sub16_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint people with the idea to buy Ryoji's flowers"
+	},
+	{
+		"name": "board_sub16_T20_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "We gotta imprint five people so Ryoji can sell his stock"
+	},
+	{
+		"name": "board_sub16_T20_m2",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "According to the urban legend..."
+	},
+	{
+		"name": "board_sub16_T20_m3",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Give one flower to your partner, and they will take on all your pain<MK_11>"
+	},
+	{
+		"name": "board_sub16_T20_m4",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "<MK_11>Give a whole bouquet, and you will take on theirs<MK_11>"
+	},
+	{
+		"name": "board_sub17_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Scramble Crossing"
+	},
+	{
+		"name": "board_sub17_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan to listen in on the high schooler's thoughts"
+	},
+	{
+		"name": "board_sub17_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Imprint the high schooler with some advice"
+	},
+	{
+		"name": "board_sub17_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "A new <i>EleStra</i> chapter is about to drop, but this girl still hasn't finished the current one..."
+	},
+	{
+		"name": "board_sub18_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Scramble Crossing"
+	},
+	{
+		"name": "board_sub18_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Ryoji's <MK_11>little helper<MK_11> to find out what's bugging him"
+	},
+	{
+		"name": "board_sub18_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Remind him of what Ryoji said"
+	},
+	{
+		"name": "board_sub29_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help at the Expressway Underpass"
+	},
+	{
+		"name": "board_sub29_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan Ryoji's <MK_11>little helper<MK_11> to find out what's bugging him"
+	},
+	{
+		"name": "board_sub29_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Collect the thing Ryoji's <MK_11>little helper<MK_11> dropped"
+	},
+	{
+		"name": "board_sub29_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Sounds like he dropped it below the underpass... Maybe Shoka can get us there?"
+	},
+	{
+		"name": "board_sub29_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Deliver the bag to Ryoji's <MK_11>little helper<MK_11>"
+	},
+	{
+		"name": "board_sub30_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near TOWER RECORDS"
+	},
+	{
+		"name": "board_sub30_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Scan MKN to see what's up"
+	},
+	{
+		"name": "board_sub30_T30",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Retrieve the item she left behind"
+	},
+	{
+		"name": "board_sub30_T30_m1",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "How the hell'd she leave that up there? Well, Shoka's<BR>power ought to do the trick"
+	},
+	{
+		"name": "board_sub30_T40",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Deliver the memento to MKN"
+	},
+	{
+		"name": "board_sub31_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help on Spain Hill"
+	},
+	{
+		"name": "board_sub31_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the noise possessing the boy"
+	},
+	{
+		"name": "board_sub32_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help on Center Street"
+	},
+	{
+		"name": "board_sub32_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the noise possessing the idol fan"
+	},
+	{
+		"name": "board_sub33_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near TOKYU PLAZA"
+	},
+	{
+		"name": "board_sub33_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the noise possessing the idol"
+	},
+	{
+		"name": "board_sub34_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Dogenzaka"
+	},
+	{
+		"name": "board_sub34_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the noise possessing the guy in the hoodie"
+	},
+	{
+		"name": "board_sub35_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Udagawa"
+	},
+	{
+		"name": "board_sub35_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing Modoriyama"
+	},
+	{
+		"name": "board_sub36_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help in Dogenzaka"
+	},
+	{
+		"name": "board_sub36_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing Kashiki"
+	},
+	{
+		"name": "board_sub37_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near Shibuya Hikarie"
+	},
+	{
+		"name": "board_sub37_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing the apparition"
+	},
+	{
+		"name": "board_sub38_T10",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Someone could use our help near TOWER RECORDS"
+	},
+	{
+		"name": "board_sub38_T20",
+		"speaker": "リンドウ：RINDO",
+		"listener": "",
+		"content": "Erase the Noise possessing the high schooler"
+	}
+]
+}

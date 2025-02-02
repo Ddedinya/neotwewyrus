@@ -1,0 +1,2104 @@
+{
+"columns":[
+	{
+		"name": "Copyright_00",
+		"speaker": "",
+		"listener": "",
+		"content": "© 2021 SQUARE ENIX CO., LTD. All Rights Reserved."
+	},
+	{
+		"name": "Copyright_01",
+		"speaker": "",
+		"listener": "",
+		"content": "CHARACTER DESIGN: TETSUYA NOMURA / GEN KOBAYASHI / MIKI YAMASHITA"
+	},
+	{
+		"name": "Guide_Back",
+		"speaker": "",
+		"listener": "",
+		"content": "Назад"
+	},
+	{
+		"name": "Guide_Cancel",
+		"speaker": "",
+		"listener": "",
+		"content": "Отменить"
+	},
+	{
+		"name": "Guide_Decide",
+		"speaker": "",
+		"listener": "",
+		"content": "Выбрать"
+	},
+	{
+		"name": "Guide_Next",
+		"speaker": "",
+		"listener": "",
+		"content": "След."
+	},
+	{
+		"name": "Guide_OK",
+		"speaker": "",
+		"listener": "",
+		"content": "ОК"
+	},
+	{
+		"name": "Guide_Replay",
+		"speaker": "",
+		"listener": "",
+		"content": "Replay"
+	},
+	{
+		"name": "Com_Unknown",
+		"speaker": "",
+		"listener": "",
+		"content": "???"
+	},
+	{
+		"name": "Com_Unknown_GY",
+		"speaker": "",
+		"listener": "",
+		"content": "<CGY>???</C>"
+	},
+	{
+		"name": "Com_Blank",
+		"speaker": "",
+		"listener": "",
+		"content": "—"
+	},
+	{
+		"name": "Com_Yes",
+		"speaker": "",
+		"listener": "",
+		"content": "Да"
+	},
+	{
+		"name": "Com_No",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет"
+	},
+	{
+		"name": "Com_Num_only",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет."
+	},
+	{
+		"name": "Com_Num",
+		"speaker": "",
+		"listener": "",
+		"content": "Ном. <ID_NUM>"
+	},
+	{
+		"name": "Com_Money",
+		"speaker": "",
+		"listener": "",
+		"content": "¥<Money_NUM>"
+	},
+	{
+		"name": "Com_AddMoney",
+		"speaker": "",
+		"listener": "",
+		"content": "+¥<Money_NUM>"
+	},
+	{
+		"name": "Com_NextEXP",
+		"speaker": "",
+		"listener": "",
+		"content": "ОПТ для УР↑:"
+	},
+	{
+		"name": "Com_MaxLv",
+		"speaker": "",
+		"listener": "",
+		"content": "Уровень <LV_NUM> / <MAXLV_NUM>"
+	},
+	{
+		"name": "Com_Star",
+		"speaker": "",
+		"listener": "",
+		"content": "★"
+	},
+	{
+		"name": "Com_Level",
+		"speaker": "",
+		"listener": "",
+		"content": "Уровень"
+	},
+	{
+		"name": "Com_Lv",
+		"speaker": "",
+		"listener": "",
+		"content": "УР"
+	},
+	{
+		"name": "Com_VIPLV",
+		"speaker": "",
+		"listener": "",
+		"content": "VIP уровень"
+	},
+	{
+		"name": "Com_RankUP",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОВЫШЕНИЕ УРОВНЯ!"
+	},
+	{
+		"name": "Com_Time",
+		"speaker": "",
+		"listener": "",
+		"content": "<D_HR>:<D_MIN>"
+	},
+	{
+		"name": "Com_Time_ms",
+		"speaker": "",
+		"listener": "",
+		"content": "<D_MIN>:<D_SEC>"
+	},
+	{
+		"name": "Com_New",
+		"speaker": "",
+		"listener": "",
+		"content": "НОВОЕ!"
+	},
+	{
+		"name": "Com_Rate",
+		"speaker": "",
+		"listener": "",
+		"content": "<RATE_NUM><MK_PCT>"
+	},
+	{
+		"name": "Com_SReport",
+		"speaker": "",
+		"listener": "",
+		"content": "(<SR_NUM>/24)"
+	},
+	{
+		"name": "Com_Get",
+		"speaker": "",
+		"listener": "",
+		"content": "GOT IT!"
+	},
+	{
+		"name": "Com_KeywordGet",
+		"speaker": "",
+		"listener": "",
+		"content": "Новое кл. слово!"
+	},
+	{
+		"name": "Com_ItemName",
+		"speaker": "",
+		"listener": "",
+		"content": "<ItemName>"
+	},
+	{
+		"name": "Com_Item_SP",
+		"speaker": "",
+		"listener": "",
+		"content": "<ItemName> <SP_ / ×<ITEM_NUM>>"
+	},
+	{
+		"name": "Com_Possession",
+		"speaker": "",
+		"listener": "",
+		"content": "Итог:"
+	},
+	{
+		"name": "Com_Keyword",
+		"speaker": "",
+		"listener": "",
+		"content": "Ключевые слова"
+	},
+	{
+		"name": "Com_TIPS",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОДСКАЗКИ"
+	},
+	{
+		"name": "Param_HP",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗДР"
+	},
+	{
+		"name": "Param_ATK",
+		"speaker": "",
+		"listener": "",
+		"content": "АТК"
+	},
+	{
+		"name": "Param_DEF",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗЩТ"
+	},
+	{
+		"name": "Param_SEN",
+		"speaker": "",
+		"listener": "",
+		"content": "СТИЛЬ"
+	},
+	{
+		"name": "Param_EXP",
+		"speaker": "",
+		"listener": "",
+		"content": "ОПТ"
+	},
+	{
+		"name": "Param_BEXP",
+		"speaker": "",
+		"listener": "",
+		"content": "ОЗ"
+	},
+	{
+		"name": "Param_DRate",
+		"speaker": "",
+		"listener": "",
+		"content": "МН. ВЫПАДЕНИЯ"
+	},
+	{
+		"name": "Param_TeamHP",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗДР КОМАНДЫ"
+	},
+	{
+		"name": "ItemSt_Info",
+		"speaker": "",
+		"listener": "",
+		"content": "ИНФО"
+	},
+	{
+		"name": "ItemSt_Ability",
+		"speaker": "",
+		"listener": "",
+		"content": "СПОСОБНОСТЬ"
+	},
+	{
+		"name": "ItemSt_AbilitySense",
+		"speaker": "",
+		"listener": "",
+		"content": "ТРЕБ. СТИЛЬ"
+	},
+	{
+		"name": "ItemSt_FOD_Shop",
+		"speaker": "",
+		"listener": "",
+		"content": "МАГАЗИН"
+	},
+	{
+		"name": "ItemSt_BDG_Operation",
+		"speaker": "",
+		"listener": "",
+		"content": "КНОПКА"
+	},
+	{
+		"name": "ItemSt_BDG_DPS",
+		"speaker": "",
+		"listener": "",
+		"content": "СИЛА"
+	},
+	{
+		"name": "ItemSt_BDG_Element",
+		"speaker": "",
+		"listener": "",
+		"content": "СТИХИЯ"
+	},
+	{
+		"name": "ItemSt_BDG_Lv",
+		"speaker": "",
+		"listener": "",
+		"content": "УРОВЕНЬ"
+	},
+	{
+		"name": "ItemSt_BDG_MaxLv",
+		"speaker": "",
+		"listener": "",
+		"content": "МАКС."
+	},
+	{
+		"name": "ItemSt_BDG_Psychic",
+		"speaker": "",
+		"listener": "",
+		"content": "ПСИ-СИЛА"
+	},
+	{
+		"name": "ItemSt_BDG_Info",
+		"speaker": "",
+		"listener": "",
+		"content": "ГРУППА"
+	},
+	{
+		"name": "ItemSt_BDG_Chance",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОПАДАНИЕ В БИТ"
+	},
+	{
+		"name": "ItemSt_BDG_Use",
+		"speaker": "",
+		"listener": "",
+		"content": "ЛИМИТ"
+	},
+	{
+		"name": "ItemSt_BDG_Reboot",
+		"speaker": "",
+		"listener": "",
+		"content": "ПЕРЕЗАРЯДКА"
+	},
+	{
+		"name": "ItemSt_BDG_Growth",
+		"speaker": "",
+		"listener": "",
+		"content": "РОСТ"
+	},
+	{
+		"name": "ItemSt_BDG_Evolution",
+		"speaker": "",
+		"listener": "",
+		"content": "ЭВОЛЮЦИЯ"
+	},
+	{
+		"name": "ItemSt_BDG_Sell",
+		"speaker": "",
+		"listener": "",
+		"content": "ЦЕННОСТЬ"
+	},
+	{
+		"name": "ItemSt_BDG_NoReboot",
+		"speaker": "",
+		"listener": "",
+		"content": "N/A"
+	},
+	{
+		"name": "Badge_Growth00",
+		"speaker": "",
+		"listener": "",
+		"content": "Очень быстро"
+	},
+	{
+		"name": "Badge_Growth01",
+		"speaker": "",
+		"listener": "",
+		"content": "Быстро"
+	},
+	{
+		"name": "Badge_Growth02",
+		"speaker": "",
+		"listener": "",
+		"content": "Нормально"
+	},
+	{
+		"name": "Badge_Growth03",
+		"speaker": "",
+		"listener": "",
+		"content": "Немного медленно"
+	},
+	{
+		"name": "Badge_Growth04",
+		"speaker": "",
+		"listener": "",
+		"content": "Медленно"
+	},
+	{
+		"name": "Badge_Growth05",
+		"speaker": "",
+		"listener": "",
+		"content": "Очень медленно"
+	},
+	{
+		"name": "Badge_Growth06",
+		"speaker": "",
+		"listener": "",
+		"content": "N/A"
+	},
+	{
+		"name": "Badge_Evolution00",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет"
+	},
+	{
+		"name": "Badge_Evolution01",
+		"speaker": "",
+		"listener": "",
+		"content": "Да"
+	},
+	{
+		"name": "Badge_Evolution02",
+		"speaker": "",
+		"listener": "",
+		"content": "<CAQ>???</C>"
+	},
+	{
+		"name": "Badge_Evolution03",
+		"speaker": "",
+		"listener": "",
+		"content": "Уровень <LV_NUM>"
+	},
+	{
+		"name": "Badge_Param02",
+		"speaker": "",
+		"listener": "",
+		"content": "<TIME_NUM> секунд"
+	},
+	{
+		"name": "Badge_Param03",
+		"speaker": "",
+		"listener": "",
+		"content": "<USE_NUM> раз"
+	},
+	{
+		"name": "Badge_Param04",
+		"speaker": "",
+		"listener": "",
+		"content": "<USE_NUM>+ раз"
+	},
+	{
+		"name": "Guide_Book_Read",
+		"speaker": "",
+		"listener": "",
+		"content": "Прочитать"
+	},
+	{
+		"name": "Guide_CD_Play",
+		"speaker": "",
+		"listener": "",
+		"content": "Проиграть"
+	},
+	{
+		"name": "Guide_CD_Stop",
+		"speaker": "",
+		"listener": "",
+		"content": "Остановить"
+	},
+	{
+		"name": "CD_Playing",
+		"speaker": "",
+		"listener": "",
+		"content": "Сейчас играет"
+	},
+	{
+		"name": "Setting_Difficulty_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "СЛОЖНОСТЬ"
+	},
+	{
+		"name": "Setting_Difficulty_Info",
+		"speaker": "",
+		"listener": "",
+		"content": "Повышая сложность, вы будете сталкиваться с <CRE>более сильными Шумами</C>, которые оставляют <CRE>более редкие значки</C>."
+	},
+	{
+		"name": "Setting_Difficulty01",
+		"speaker": "",
+		"listener": "",
+		"content": "ЛЕГКАЯ"
+	},
+	{
+		"name": "Setting_Difficulty02",
+		"speaker": "",
+		"listener": "",
+		"content": "НОРМАЛ."
+	},
+	{
+		"name": "Setting_Difficulty03",
+		"speaker": "",
+		"listener": "",
+		"content": "ТЯЖЁЛАЯ"
+	},
+	{
+		"name": "Setting_Difficulty04",
+		"speaker": "",
+		"listener": "",
+		"content": "ПРЕДЕЛЬНАЯ"
+	},
+	{
+		"name": "Setting_Level_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "УРОВЕНЬ"
+	},
+	{
+		"name": "Setting_Level_Info",
+		"speaker": "",
+		"listener": "",
+		"content": "Понижения уровень, ЗДР вашей команды снижается, но повышается <CRE>мн. выпадения значков</C>."
+	},
+	{
+		"name": "Difficulty_E",
+		"speaker": "",
+		"listener": "",
+		"content": "Л"
+	},
+	{
+		"name": "Difficulty_N",
+		"speaker": "",
+		"listener": "",
+		"content": "Н"
+	},
+	{
+		"name": "Difficulty_H",
+		"speaker": "",
+		"listener": "",
+		"content": "Т"
+	},
+	{
+		"name": "Difficulty_U",
+		"speaker": "",
+		"listener": "",
+		"content": "П"
+	},
+	{
+		"name": "Category_Sub_Sphere",
+		"speaker": "",
+		"listener": "",
+		"content": "СОЦИАЛЬНАЯ СЕТЬ"
+	},
+	{
+		"name": "Category_Sub_Thinking",
+		"speaker": "",
+		"listener": "",
+		"content": "МЫСЛЕННЫЕ ЗАМЕТКИ"
+	},
+	{
+		"name": "Category_Sub_Collection",
+		"speaker": "",
+		"listener": "",
+		"content": "КОЛЛЕКЦИЯ"
+	},
+	{
+		"name": "Category_Sub_Noise",
+		"speaker": "",
+		"listener": "",
+		"content": "ШУМОПЕДИЯ"
+	},
+	{
+		"name": "Category_Sub_Chapter",
+		"speaker": "",
+		"listener": "",
+		"content": "ГЛАВЫ"
+	},
+	{
+		"name": "Category_Sub_Trophy",
+		"speaker": "",
+		"listener": "",
+		"content": "ГРАФФИТИ"
+	},
+	{
+		"name": "Guide_Replace",
+		"speaker": "",
+		"listener": "",
+		"content": "Поменять"
+	},
+	{
+		"name": "Guide_Equip",
+		"speaker": "",
+		"listener": "",
+		"content": "Экипировать"
+	},
+	{
+		"name": "Guide_Remove",
+		"speaker": "",
+		"listener": "",
+		"content": "Убрать"
+	},
+	{
+		"name": "Guide_Abilityrist",
+		"speaker": "",
+		"listener": "",
+		"content": "Способности"
+	},
+	{
+		"name": "Guide_DeckSwitch",
+		"speaker": "",
+		"listener": "",
+		"content": "Поменять колоды"
+	},
+	{
+		"name": "Guide_Sell",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать"
+	},
+	{
+		"name": "Guide_Coord",
+		"speaker": "",
+		"listener": "",
+		"content": "Автостиль"
+	},
+	{
+		"name": "GodClass_GOD",
+		"speaker": "",
+		"listener": "",
+		"content": "Сверх"
+	},
+	{
+		"name": "GodClass_GOD_sgl",
+		"speaker": "",
+		"listener": "",
+		"content": "Сверх"
+	},
+	{
+		"name": "GodClass_Name",
+		"speaker": "",
+		"listener": "",
+		"content": "Сверх <BUTTON>"
+	},
+	{
+		"name": "GodClass_Equip",
+		"speaker": "",
+		"listener": "",
+		"content": "Сверхзначки"
+	},
+	{
+		"name": "SysMsg_GodClass_limit0",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно экипировать этот сверхзначок."
+	},
+	{
+		"name": "SysMsg_GodClass_over",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно скипировать больше сверхзначков."
+	},
+	{
+		"name": "SysMsg_SameBtn_over",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно экипировать больше сверхзначков с этим вводом."
+	},
+	{
+		"name": "SysMsg_SameBtn_GodClass",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно экипировать два сверхзначка с этим вводом."
+	},
+	{
+		"name": "SysMsg_NoEquipment",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет экипируемой одежды."
+	},
+	{
+		"name": "SysMsg_Growable_over",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно взять больше неотмастеренных значков.<BR>Освободите инвертарь, продав ненужные значки."
+	},
+	{
+		"name": "Equip_All",
+		"speaker": "",
+		"listener": "",
+		"content": "Всё"
+	},
+	{
+		"name": "Equip_All_Possible",
+		"speaker": "",
+		"listener": "",
+		"content": "(Экипируемое)"
+	},
+	{
+		"name": "Equip_Empty",
+		"speaker": "",
+		"listener": "",
+		"content": "Пусто"
+	},
+	{
+		"name": "Equip_Recom",
+		"speaker": "",
+		"listener": "",
+		"content": "Рекомендуется!"
+	},
+	{
+		"name": "Equip_Recom_BDG_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Атака выше"
+	},
+	{
+		"name": "Equip_Recom_BDG_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Тот же ввод"
+	},
+	{
+		"name": "Equip_Recom_BDG_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Другой ввод"
+	},
+	{
+		"name": "Equip_Recom_BDG_04",
+		"speaker": "",
+		"listener": "",
+		"content": "Короткая дистанция"
+	},
+	{
+		"name": "Equip_Recom_BDG_05",
+		"speaker": "",
+		"listener": "",
+		"content": "Дальная дистанция"
+	},
+	{
+		"name": "Equip_Recom_BDG_06",
+		"speaker": "",
+		"listener": "",
+		"content": "Поддержка"
+	},
+	{
+		"name": "Equip_Recom_BDG_07",
+		"speaker": "",
+		"listener": "",
+		"content": "Та же стихия"
+	},
+	{
+		"name": "Equip_Recom_BDG_08",
+		"speaker": "",
+		"listener": "",
+		"content": "Та же пси-сила"
+	},
+	{
+		"name": "Equip_Recom_BDG_09",
+		"speaker": "",
+		"listener": "",
+		"content": "Тот же бренд"
+	},
+	{
+		"name": "Equip_Recom_BDG_10",
+		"speaker": "",
+		"listener": "",
+		"content": "Новое"
+	},
+	{
+		"name": "Equip_Recom_BDG_11",
+		"speaker": "",
+		"listener": "",
+		"content": "Потенциал для роста"
+	},
+	{
+		"name": "Equip_Recom_BDG_12",
+		"speaker": "",
+		"listener": "",
+		"content": "Случайное"
+	},
+	{
+		"name": "Equip_Recom_FAS_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Способность"
+	},
+	{
+		"name": "Equip_Recom_FAS_02",
+		"speaker": "",
+		"listener": "",
+		"content": "АТК выше"
+	},
+	{
+		"name": "Equip_Recom_FAS_03",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗЩТ выше"
+	},
+	{
+		"name": "Equip_Recom_FAS_04",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗДР выше"
+	},
+	{
+		"name": "Equip_Recom_FAS_05",
+		"speaker": "",
+		"listener": "",
+		"content": "Новое"
+	},
+	{
+		"name": "Equip_Recom_FAS_06",
+		"speaker": "",
+		"listener": "",
+		"content": "Тот же бренд"
+	},
+	{
+		"name": "Equip_Recom_FAS_07",
+		"speaker": "",
+		"listener": "",
+		"content": "Случайное"
+	},
+	{
+		"name": "Equip_Recom_Coord_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Всесторонее развитие"
+	},
+	{
+		"name": "Equip_Recom_Coord_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Усиление атаки"
+	},
+	{
+		"name": "Equip_Recom_Coord_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Усиление защиты"
+	},
+	{
+		"name": "Equip_Recom_Coord_04",
+		"speaker": "",
+		"listener": "",
+		"content": "Усиление здоровья"
+	},
+	{
+		"name": "Equip_Recom_Coord_05",
+		"speaker": "",
+		"listener": "",
+		"content": "Усиление способности"
+	},
+	{
+		"name": "Equip_Sort_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Новое"
+	},
+	{
+		"name": "Equip_Sort_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Бренд"
+	},
+	{
+		"name": "Equip_Sort_BDG_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Сила"
+	},
+	{
+		"name": "Equip_Sort_BDG_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила"
+	},
+	{
+		"name": "Equip_Sort_BDG_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Уровень"
+	},
+	{
+		"name": "Equip_Sort_BDG_04",
+		"speaker": "",
+		"listener": "",
+		"content": "Number"
+	},
+	{
+		"name": "Equip_Sort_BDG_05",
+		"speaker": "",
+		"listener": "",
+		"content": "Ввод"
+	},
+	{
+		"name": "Equip_Sort_BDG_06",
+		"speaker": "",
+		"listener": "",
+		"content": "Стихия"
+	},
+	{
+		"name": "Equip_Sort_FAS_01",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗДР"
+	},
+	{
+		"name": "Equip_Sort_FAS_02",
+		"speaker": "",
+		"listener": "",
+		"content": "АТК"
+	},
+	{
+		"name": "Equip_Sort_FAS_03",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗЩТ"
+	},
+	{
+		"name": "Equip_Sort_FAS_04",
+		"speaker": "",
+		"listener": "",
+		"content": "СТИЛЬ"
+	},
+	{
+		"name": "Equip_Sort_FAS_05",
+		"speaker": "",
+		"listener": "",
+		"content": "Тип"
+	},
+	{
+		"name": "Equip_Sort_FAS_06",
+		"speaker": "",
+		"listener": "",
+		"content": "Способность"
+	},
+	{
+		"name": "Badge_Sell_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать всё"
+	},
+	{
+		"name": "Badge_Sell_Q",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать все свои неотмастеренные <CRE>одинаковые значки</C>?"
+	},
+	{
+		"name": "Badge_Sell_Yes",
+		"speaker": "",
+		"listener": "",
+		"content": "Да"
+	},
+	{
+		"name": "Badge_Sell_No",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет"
+	},
+	{
+		"name": "Badge_Sell_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Всего одинаковых значков"
+	},
+	{
+		"name": "Badge_Sell_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Прибыль"
+	},
+	{
+		"name": "SysMsg_SellBadge_Dupli",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать <ITEM_NUM> одинаковый(-ые) значок(-чки)?"
+	},
+	{
+		"name": "SysMsg_SellBadge_God",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать <ITEM_NUM> сверхзначок(-чки)?"
+	},
+	{
+		"name": "SysMsg_SellBadge_Master",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать <ITEM_NUM> отмастеренный(-ые) значок(-чки)?"
+	},
+	{
+		"name": "SysMsg_SellBadge_Grow",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать <ITEM_NUM> неотмастеренный(-ые) значок(-чки)?"
+	},
+	{
+		"name": "Abilityrist_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Навык"
+	},
+	{
+		"name": "Abilityrist_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Остальное"
+	},
+	{
+		"name": "Abilityrist_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Команда"
+	},
+	{
+		"name": "Abilityrist_TEAM",
+		"speaker": "",
+		"listener": "",
+		"content": "Команда"
+	},
+	{
+		"name": "Abilityrist_CH001",
+		"speaker": "",
+		"listener": "",
+		"content": "Риндо"
+	},
+	{
+		"name": "Abilityrist_CH002",
+		"speaker": "",
+		"listener": "",
+		"content": "Шока"
+	},
+	{
+		"name": "Abilityrist_CH003",
+		"speaker": "",
+		"listener": "",
+		"content": "Фрет"
+	},
+	{
+		"name": "Abilityrist_CH004",
+		"speaker": "",
+		"listener": "",
+		"content": "Наги"
+	},
+	{
+		"name": "Abilityrist_CH005",
+		"speaker": "",
+		"listener": "",
+		"content": "Бит"
+	},
+	{
+		"name": "Abilityrist_CH006",
+		"speaker": "",
+		"listener": "",
+		"content": "Неку"
+	},
+	{
+		"name": "Abilityrist_CH007",
+		"speaker": "",
+		"listener": "",
+		"content": "Минамимото"
+	},
+	{
+		"name": "Food_Stomach",
+		"speaker": "",
+		"listener": "",
+		"content": "<CAL_NUM> калорий"
+	},
+	{
+		"name": "Sphere_Prate",
+		"speaker": "",
+		"listener": "",
+		"content": "ПРОЙДЕНО"
+	},
+	{
+		"name": "Sphere_Event",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОЯВЛЕНИЕ"
+	},
+	{
+		"name": "Sphere_Quest",
+		"speaker": "",
+		"listener": "",
+		"content": "КВЕСТ"
+	},
+	{
+		"name": "Guide_Zoom",
+		"speaker": "",
+		"listener": "",
+		"content": "Приближение"
+	},
+	{
+		"name": "Guide_Default",
+		"speaker": "",
+		"listener": "",
+		"content": "По умолчанию"
+	},
+	{
+		"name": "Guide_Prof_on",
+		"speaker": "",
+		"listener": "",
+		"content": "Показать профиль"
+	},
+	{
+		"name": "Guide_Prof_off",
+		"speaker": "",
+		"listener": "",
+		"content": "Скрыть профиль"
+	},
+	{
+		"name": "Guide_Sphere_01_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Квест незавершён"
+	},
+	{
+		"name": "Guide_Sphere_01_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Перейти в выбор глав"
+	},
+	{
+		"name": "Guide_Sphere_02_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Квест активен"
+	},
+	{
+		"name": "Guide_Sphere_02_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Проверить мысленные заметки"
+	},
+	{
+		"name": "Sphere_Quest_VIPTGT",
+		"speaker": "",
+		"listener": "",
+		"content": "Повысить VIP уровнь до <VIP_TGT_NUM>."
+	},
+	{
+		"name": "Sphere_Quest_VIP",
+		"speaker": "",
+		"listener": "",
+		"content": "(<VIP_NUM>/<VIP_TGT_NUM>)"
+	},
+	{
+		"name": "Sphere_Quest_OrderTGT",
+		"speaker": "",
+		"listener": "",
+		"content": "Совершить <ORDER_TGT_NUM> <SP_order/orders>."
+	},
+	{
+		"name": "Sphere_Quest_Order",
+		"speaker": "",
+		"listener": "",
+		"content": "(<ORDER_NUM>/<ORDER_TGT_NUM>)"
+	},
+	{
+		"name": "Sphere_Quest_BuyTGT",
+		"speaker": "",
+		"listener": "",
+		"content": "Купить <BUY_TGT_NUM> <SP_item/items>."
+	},
+	{
+		"name": "Sphere_Quest_Buy",
+		"speaker": "",
+		"listener": "",
+		"content": "(<BUY_NUM>/<BUY_TGT_NUM>)"
+	},
+	{
+		"name": "Sphere_Reward_Item",
+		"speaker": "",
+		"listener": "",
+		"content": "Предмет"
+	},
+	{
+		"name": "Guide_GetReward",
+		"speaker": "",
+		"listener": "",
+		"content": "Получить"
+	},
+	{
+		"name": "Sphere_Reward",
+		"speaker": "",
+		"listener": "",
+		"content": "НАГРАДА"
+	},
+	{
+		"name": "Sphere_CharaPoint",
+		"speaker": "",
+		"listener": "",
+		"content": "ОД"
+	},
+	{
+		"name": "Sphere_CharaPt",
+		"speaker": "",
+		"listener": "",
+		"content": "x <CP_NUM>"
+	},
+	{
+		"name": "SysMsg_SphereSkill",
+		"speaker": "",
+		"listener": "",
+		"content": "Потратить ОД чтобы получить <CAQ><SkillName></C>?"
+	},
+	{
+		"name": "SysMsg_Sphere_Update",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваша социальная сеть была обновлена."
+	},
+	{
+		"name": "SysMsg_Sphere_Noconnection",
+		"speaker": "",
+		"listener": "",
+		"content": "Связь пока не установлена."
+	},
+	{
+		"name": "SysMsg_Sphere_Notenough",
+		"speaker": "",
+		"listener": "",
+		"content": "Недостаточно ОД"
+	},
+	{
+		"name": "Guide_Map01",
+		"speaker": "",
+		"listener": "",
+		"content": "Приблизить"
+	},
+	{
+		"name": "Guide_Map02",
+		"speaker": "",
+		"listener": "",
+		"content": "Передвинуть"
+	},
+	{
+		"name": "Guide_Map03",
+		"speaker": "",
+		"listener": "",
+		"content": "Найти"
+	},
+	{
+		"name": "Map_Event",
+		"speaker": "",
+		"listener": "",
+		"content": "Задания"
+	},
+	{
+		"name": "Map_Noise",
+		"speaker": "",
+		"listener": "",
+		"content": "Шум"
+	},
+	{
+		"name": "Map_NewItem",
+		"speaker": "",
+		"listener": "",
+		"content": "Новое прибывшее"
+	},
+	{
+		"name": "Report_CRate",
+		"speaker": "",
+		"listener": "",
+		"content": "ПРОЙДЕНО"
+	},
+	{
+		"name": "Collection_Category3",
+		"speaker": "",
+		"listener": "",
+		"content": "КНИГИ"
+	},
+	{
+		"name": "Collection_Category4",
+		"speaker": "",
+		"listener": "",
+		"content": "МУЗЫКА"
+	},
+	{
+		"name": "Collection_Category5",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗНАЧКИ"
+	},
+	{
+		"name": "Collection_Category6",
+		"speaker": "",
+		"listener": "",
+		"content": "ОДЕЖДА"
+	},
+	{
+		"name": "Collection_Category7",
+		"speaker": "",
+		"listener": "",
+		"content": "ЕДА"
+	},
+	{
+		"name": "Guide_Noise01",
+		"speaker": "",
+		"listener": "",
+		"content": "Атака"
+	},
+	{
+		"name": "Guide_Noise02",
+		"speaker": "",
+		"listener": "",
+		"content": "Повернуть"
+	},
+	{
+		"name": "Guide_Noise03",
+		"speaker": "",
+		"listener": "",
+		"content": "Показать"
+	},
+	{
+		"name": "Guide_Noise04",
+		"speaker": "",
+		"listener": "",
+		"content": "Скрыть"
+	},
+	{
+		"name": "Noise_StLv",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗАПИСАН"
+	},
+	{
+		"name": "Noise_Kill",
+		"speaker": "",
+		"listener": "",
+		"content": "СТЁРТ"
+	},
+	{
+		"name": "Noise_Weak",
+		"speaker": "",
+		"listener": "",
+		"content": "СЛАБОСТЬ"
+	},
+	{
+		"name": "Noise_Unknown",
+		"speaker": "",
+		"listener": "",
+		"content": "НЕИЗВЕСТНО"
+	},
+	{
+		"name": "Chapter_Sphere",
+		"speaker": "",
+		"listener": "",
+		"content": "Социальная сеть"
+	},
+	{
+		"name": "Chapter_SideStory",
+		"speaker": "",
+		"listener": "",
+		"content": "Побочная история"
+	},
+	{
+		"name": "Chapter_FTA",
+		"speaker": "",
+		"listener": "",
+		"content": "Испытание на время"
+	},
+	{
+		"name": "Chapter_Clear",
+		"speaker": "",
+		"listener": "",
+		"content": "Пройдено"
+	},
+	{
+		"name": "Chapter_Progress",
+		"speaker": "",
+		"listener": "",
+		"content": "Проходится"
+	},
+	{
+		"name": "Chapter_Log",
+		"speaker": "",
+		"listener": "",
+		"content": "Посмотреть журнал"
+	},
+	{
+		"name": "Chapter_PlayChapter",
+		"speaker": "",
+		"listener": "",
+		"content": "Перепройти этот день"
+	},
+	{
+		"name": "SysMsg_PlayChapter_0",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать день сначала?"
+	},
+	{
+		"name": "SysMsg_PlayChapter_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать день с момента, на котором вы остановились?"
+	},
+	{
+		"name": "SysMsg_PlayChapter_2",
+		"speaker": "",
+		"listener": "",
+		"content": "<center>Начать день сначала?<BR><CRE>Прогресс на нынешнем дне будет потерян.</C></center>"
+	},
+	{
+		"name": "Guide_Trophy01",
+		"speaker": "",
+		"listener": "",
+		"content": "Граффити"
+	},
+	{
+		"name": "Guide_Trophy02",
+		"speaker": "",
+		"listener": "",
+		"content": "Переразместить"
+	},
+	{
+		"name": "Guide_TrophyEdit01",
+		"speaker": "",
+		"listener": "",
+		"content": "Убрать"
+	},
+	{
+		"name": "Guide_TrophyEdit02",
+		"speaker": "",
+		"listener": "",
+		"content": "Сбросить"
+	},
+	{
+		"name": "Guide_TrophyEdit03",
+		"speaker": "",
+		"listener": "",
+		"content": "Масштабировать"
+	},
+	{
+		"name": "Guide_TrophyEdit04",
+		"speaker": "",
+		"listener": "",
+		"content": "Повернуть"
+	},
+	{
+		"name": "Guide_TrophyEdit05",
+		"speaker": "",
+		"listener": "",
+		"content": "Сменить вид"
+	},
+	{
+		"name": "Trophy_ESPRank",
+		"speaker": "",
+		"listener": "",
+		"content": "ПСИ-РАНК"
+	},
+	{
+		"name": "Log_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "ЖУРНАЛ"
+	},
+	{
+		"name": "Guide_Voice",
+		"speaker": "",
+		"listener": "",
+		"content": "Проиграть"
+	},
+	{
+		"name": "Log_Choice",
+		"speaker": "",
+		"listener": "",
+		"content": "(<LogChoice>)"
+	},
+	{
+		"name": "Event_Auto",
+		"speaker": "",
+		"listener": "",
+		"content": "Авто"
+	},
+	{
+		"name": "SysMsg_MovieSkip",
+		"speaker": "",
+		"listener": "",
+		"content": "Пропустить катсцену?"
+	},
+	{
+		"name": "Option_Save",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранение"
+	},
+	{
+		"name": "Option_Game",
+		"speaker": "",
+		"listener": "",
+		"content": "Игровой процесс"
+	},
+	{
+		"name": "Option_Screen",
+		"speaker": "",
+		"listener": "",
+		"content": "Видео"
+	},
+	{
+		"name": "Option_Sound",
+		"speaker": "",
+		"listener": "",
+		"content": "Аудио"
+	},
+	{
+		"name": "Option_Save01",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранить"
+	},
+	{
+		"name": "Option_Save02",
+		"speaker": "",
+		"listener": "",
+		"content": "Загрузить"
+	},
+	{
+		"name": "Option_Save03",
+		"speaker": "",
+		"listener": "",
+		"content": "Вернуться на титульный экран"
+	},
+	{
+		"name": "Option_Game01",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_Option_Game01>"
+	},
+	{
+		"name": "Option_Game02",
+		"speaker": "",
+		"listener": "",
+		"content": "Авто. проигрыш диалогов"
+	},
+	{
+		"name": "Option_Game03",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_Option_Game03>"
+	},
+	{
+		"name": "Option_Game03_A",
+		"speaker": "",
+		"listener": "",
+		"content": "Действие"
+	},
+	{
+		"name": "Option_Game03_E",
+		"speaker": "",
+		"listener": "",
+		"content": "Остальное"
+	},
+	{
+		"name": "Option_Game03_F",
+		"speaker": "",
+		"listener": "",
+		"content": "Вне боя"
+	},
+	{
+		"name": "Option_Game03_F_A01",
+		"speaker": "",
+		"listener": "",
+		"content": "Подтвердить / Поговорить / Проверить"
+	},
+	{
+		"name": "Option_Game03_F_A02",
+		"speaker": "",
+		"listener": "",
+		"content": "Отменить"
+	},
+	{
+		"name": "Option_Game03_F_A03",
+		"speaker": "",
+		"listener": "",
+		"content": "Главное меню"
+	},
+	{
+		"name": "Option_Game03_F_A04",
+		"speaker": "",
+		"listener": "",
+		"content": "Перемотка / <MK_11>Вспомни<MK_11>"
+	},
+	{
+		"name": "Option_Game03_F_A05",
+		"speaker": "",
+		"listener": "",
+		"content": "Мысленные заметки"
+	},
+	{
+		"name": "Option_Game03_F_A06",
+		"speaker": "",
+		"listener": "",
+		"content": "Сканировать"
+	},
+	{
+		"name": "Option_Game03_F_A07",
+		"speaker": "",
+		"listener": "",
+		"content": "Журнал"
+	},
+	{
+		"name": "Option_Game03_F_A08",
+		"speaker": "",
+		"listener": "",
+		"content": "Притягивать Шумы"
+	},
+	{
+		"name": "Option_Game03_F_E01",
+		"speaker": "",
+		"listener": "",
+		"content": "Меню выбора сложности и уровня"
+	},
+	{
+		"name": "Option_Game03_F_E02",
+		"speaker": "",
+		"listener": "",
+		"content": "Настройка"
+	},
+	{
+		"name": "Option_Game03_B",
+		"speaker": "",
+		"listener": "",
+		"content": "Битва"
+	},
+	{
+		"name": "Option_Game03_B_A01",
+		"speaker": "",
+		"listener": "",
+		"content": "Уклониться"
+	},
+	{
+		"name": "Option_Game03_B_A02",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 1"
+	},
+	{
+		"name": "Option_Game03_B_A03",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 2"
+	},
+	{
+		"name": "Option_Game03_B_A04",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 3"
+	},
+	{
+		"name": "Option_Game03_B_A05",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 4"
+	},
+	{
+		"name": "Option_Game03_B_A06",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 5"
+	},
+	{
+		"name": "Option_Game03_B_A07",
+		"speaker": "",
+		"listener": "",
+		"content": "Пси-сила 6"
+	},
+	{
+		"name": "Option_Game03_B_E01",
+		"speaker": "",
+		"listener": "",
+		"content": "Переключиться на цель слева"
+	},
+	{
+		"name": "Option_Game03_B_E02",
+		"speaker": "",
+		"listener": "",
+		"content": "Переключиться на цель справа"
+	},
+	{
+		"name": "Option_Game03_B_E03",
+		"speaker": "",
+		"listener": "",
+		"content": "Меню битвы"
+	},
+	{
+		"name": "Option_Screen01",
+		"speaker": "",
+		"listener": "",
+		"content": "Граф. интерфейс"
+	},
+	{
+		"name": "Option_Screen02",
+		"speaker": "",
+		"listener": "",
+		"content": "Субтитры"
+	},
+	{
+		"name": "Option_Sound01",
+		"speaker": "",
+		"listener": "",
+		"content": "Голоса"
+	},
+	{
+		"name": "Option_Sound02",
+		"speaker": "",
+		"listener": "",
+		"content": "Звуковые эффекты"
+	},
+	{
+		"name": "Option_Sound03",
+		"speaker": "",
+		"listener": "",
+		"content": "Музыка"
+	},
+	{
+		"name": "Option_Sound04",
+		"speaker": "",
+		"listener": "",
+		"content": "Язык"
+	},
+	{
+		"name": "SysMsg_Sound",
+		"speaker": "",
+		"listener": "",
+		"content": "Возможно изменить только из вступительного экрана."
+	},
+	{
+		"name": "SysMsg_ReturnTitle",
+		"speaker": "",
+		"listener": "",
+		"content": "Вернуться на вступительный экран?"
+	},
+	{
+		"name": "SysMsg_SaveCaution",
+		"speaker": "",
+		"listener": "",
+		"content": "Все несохранённые данные будут утеряны."
+	},
+	{
+		"name": "SysMsg_Initialize",
+		"speaker": "",
+		"listener": "",
+		"content": "Восстановить настройки по умолчанию?"
+	},
+	{
+		"name": "Guide_Initialize",
+		"speaker": "",
+		"listener": "",
+		"content": "Вернуть настройки"
+	},
+	{
+		"name": "Option_ON",
+		"speaker": "",
+		"listener": "",
+		"content": "ВКЛ."
+	},
+	{
+		"name": "Option_OFF",
+		"speaker": "",
+		"listener": "",
+		"content": "ВЫКЛ."
+	},
+	{
+		"name": "Option_Language_JP",
+		"speaker": "",
+		"listener": "",
+		"content": "Японский"
+	},
+	{
+		"name": "Option_Language_EN",
+		"speaker": "",
+		"listener": "",
+		"content": "Английский"
+	},
+	{
+		"name": "Guide_DataCopy",
+		"speaker": "",
+		"listener": "",
+		"content": "Скопировать"
+	},
+	{
+		"name": "Guide_DataDelete",
+		"speaker": "",
+		"listener": "",
+		"content": "Удалить"
+	},
+	{
+		"name": "Data_MenuTitle_Load",
+		"speaker": "",
+		"listener": "",
+		"content": "ЗАГРУЗИТЬ ИГРУ"
+	},
+	{
+		"name": "Data_MenuTitle_Save",
+		"speaker": "",
+		"listener": "",
+		"content": "СОХРАНИТЬ ИГРУ"
+	},
+	{
+		"name": "Data_Menu00_Load",
+		"speaker": "",
+		"listener": "",
+		"content": "Пусто"
+	},
+	{
+		"name": "Data_Menu00_Save",
+		"speaker": "",
+		"listener": "",
+		"content": "Пусто"
+	},
+	{
+		"name": "Data_Menu01",
+		"speaker": "",
+		"listener": "",
+		"content": "АВТО<BR>СОХРАНЕНИЕ"
+	},
+	{
+		"name": "Data_Menu02",
+		"speaker": "",
+		"listener": "",
+		"content": "<ACHV_NUM>% Пройдено"
+	},
+	{
+		"name": "SysMsg_Overwrite",
+		"speaker": "",
+		"listener": "",
+		"content": "<center>Переписать это сохранение?<BR><CRE>Предыдущие данные будут утеряны.</C></center>"
+	},
+	{
+		"name": "SysMsg_DataDelete",
+		"speaker": "",
+		"listener": "",
+		"content": "<center>Удалить это сохранение?<BR><CRE>Данные будут утеряны</C></center>"
+	},
+	{
+		"name": "SysMsg_NewLoadGame",
+		"speaker": "",
+		"listener": "",
+		"content": "Переписать нынешнее автосохранение?"
+	},
+	{
+		"name": "SysMsg_SaveComplete",
+		"speaker": "",
+		"listener": "",
+		"content": "Файл успешно сохранён."
+	},
+	{
+		"name": "SysMsg_CopyComplete",
+		"speaker": "",
+		"listener": "",
+		"content": "Файл успешно скопирован."
+	},
+	{
+		"name": "SysMsg_DataDeleteComplete",
+		"speaker": "",
+		"listener": "",
+		"content": "Файл успешно удалён."
+	},
+	{
+		"name": "SysMsg_Fail",
+		"speaker": "",
+		"listener": "",
+		"content": "Изменение файла не удалось."
+	},
+	{
+		"name": "Title_Guide_Start",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_Title_Guide_Start>"
+	},
+	{
+		"name": "Title_Continue",
+		"speaker": "",
+		"listener": "",
+		"content": "Продолжить"
+	},
+	{
+		"name": "Title_NewGame",
+		"speaker": "",
+		"listener": "",
+		"content": "Новая игра"
+	},
+	{
+		"name": "Title_Load",
+		"speaker": "",
+		"listener": "",
+		"content": "Загрузить игру"
+	},
+	{
+		"name": "Title_Option",
+		"speaker": "",
+		"listener": "",
+		"content": "Настройки"
+	},
+	{
+		"name": "SysMsg_Title_NewGame",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать новую игру?"
+	},
+	{
+		"name": "SysMsg_Title_DataCheck01",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SysMsg_Title_DataCheck01>"
+	},
+	{
+		"name": "SysMsg_Title_DataCheck02",
+		"speaker": "",
+		"listener": "",
+		"content": "Проверка файла завершена."
+	},
+	{
+		"name": "SysMsg_Title_AutoSave",
+		"speaker": "",
+		"listener": "",
+		"content": "Игра использует функцию автосохранения,<BR>которая периодически сохраняет ваш прогресс."
+	},
+	{
+		"name": "SysMsg_Title_Save",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SysMsg_Title_Save>"
+	},
+	{
+		"name": "SysMsg_Title_BreakData01",
+		"speaker": "",
+		"listener": "",
+		"content": "Файл сохранения повреждён."
+	},
+	{
+		"name": "SysMsg_Title_BreakData02",
+		"speaker": "",
+		"listener": "",
+		"content": "Пожалуйста, удалите файл сохранения."
+	},
+	{
+		"name": "SysMsg_Title_BreakData03",
+		"speaker": "",
+		"listener": "",
+		"content": "Пожалуйста, удалите этот файл сохранения чтобы начать игру."
+	},
+	{
+		"name": "SysMsg_Title_Takeover01",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранение из демо-версии обнаружено.<BR>Перенести данные из сохранения?"
+	},
+	{
+		"name": "SysMsg_Title_Takeover02",
+		"speaker": "",
+		"listener": "",
+		"content": "Перенос данных..."
+	},
+	{
+		"name": "SysMsg_Title_Takeover03",
+		"speaker": "",
+		"listener": "",
+		"content": "Данные успешно перенесены."
+	},
+	{
+		"name": "SysMsg_Title_Takeover04",
+		"speaker": "",
+		"listener": "",
+		"content": "Выберите <MK_11>Продолжить<MK_11>, чтобы начать с того места, где вы остановились."
+	},
+	{
+		"name": "SysMsg_Title_Takeover05",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранение из демо-версии повреждено.<BR>Начать игру с начала?"
+	},
+	{
+		"name": "SysMsg_Title_Benefits01",
+		"speaker": "",
+		"listener": "",
+		"content": "Получен набор Легендарной Одежды!"
+	},
+	{
+		"name": "SysMsg_Title_Benefits02",
+		"speaker": "",
+		"listener": "",
+		"content": "Получен набор Выжившего в Игре Жнецов!"
+	},
+	{
+		"name": "DEMO_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "NEO: The World Ends with You DEMO"
+	},
+	{
+		"name": "SysMsg_DEMO_Notice01",
+		"speaker": "",
+		"listener": "",
+		"content": "Недоступно в демо-версии."
+	},
+	{
+		"name": "SysMsg_DEMO_Notice02",
+		"speaker": "",
+		"listener": "",
+		"content": "Демо может отличаться от полной версии."
+	},
+	{
+		"name": "SysMsg_DEMO_Notice03",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранение из демо-версии может быть перенесено в полную версию,<BR>позволяя начать игру с момента, на котором вы остановились."
+	},
+	{
+		"name": "SysMsg_DEMO_Notice04",
+		"speaker": "",
+		"listener": "",
+		"content": "У членов команды максимум может быть 15 уровень."
+	},
+	{
+		"name": "SysMsg_DEMO_Notice05",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет соединения с интернетом."
+	},
+	{
+		"name": "SysMsg_DEMO_Notice06",
+		"speaker": "",
+		"listener": "",
+		"content": "Эта демо-версия позволяет игрокам познакомиться с началом игры."
+	},
+	{
+		"name": "SysMsg_DEMO_Clear01",
+		"speaker": "",
+		"listener": "",
+		"content": "На этом заканчивается NEO: The World Ends with You DEMO.<BR>Сохранение из демо-версии может быть перенесено в полную версию,<BR>позволяя начать игру с момента, на котором вы остановились."
+	},
+	{
+		"name": "SysMsg_DEMO_Clear02",
+		"speaker": "",
+		"listener": "",
+		"content": "От имени всей команды,<BR>благодарим вас за игру,<BR>и, пожалуйста, ждите релиза!"
+	},
+	{
+		"name": "SysMsg_DEMO_Clear03",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранить ваше сохранение из демо-версии?<BR>Вы сможете его перенести в полную версию игры."
+	},
+	{
+		"name": "DEMO_Shop",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_DEMO_Shop>"
+	},
+	{
+		"name": "SysMsg_DEMO_Shop",
+		"speaker": "",
+		"listener": "",
+		"content": "<PF_SysMsg_DEMO_Shop>"
+	},
+	{
+		"name": "DEMO_GoToShop",
+		"speaker": "",
+		"listener": "",
+		"content": "Доступно для покупки здесь!"
+	},
+	{
+		"name": "SysMsg_DEMO_Notice07",
+		"speaker": "",
+		"listener": "",
+		"content": "Демо версия имеет следующие ограничения:"
+	},
+	{
+		"name": "SysMsg_DEMO_Notice08",
+		"speaker": "",
+		"listener": "",
+		"content": "Вы можете носить только 10 копий того же значка. Все последующие не будут подбираться."
+	},
+	{
+		"name": "SysMsg_DEMO_Boss",
+		"speaker": "",
+		"listener": "",
+		"content": "Страшный враг ожидает...<BR>Вы готовы?"
+	},
+	{
+		"name": "SysMsg_DEMO_Boss_Y",
+		"speaker": "",
+		"listener": "",
+		"content": "Ещё бы!"
+	},
+	{
+		"name": "SysMsg_DEMO_Boss_N",
+		"speaker": "",
+		"listener": "",
+		"content": "Пока нет..."
+	}
+]
+}
