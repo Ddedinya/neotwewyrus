@@ -1,0 +1,166 @@
+{
+"columns":[
+	{
+		"name": "Guide_Shop01",
+		"speaker": "",
+		"listener": "",
+		"content": "Купить"
+	},
+	{
+		"name": "Guide_Shop02",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать"
+	},
+	{
+		"name": "Guide_Shop03",
+		"speaker": "",
+		"listener": "",
+		"content": "Купить"
+	},
+	{
+		"name": "Guide_Shop05",
+		"speaker": "",
+		"listener": "",
+		"content": "След."
+	},
+	{
+		"name": "SHOP_Menu01",
+		"speaker": "",
+		"listener": "",
+		"content": "СибуПэй"
+	},
+	{
+		"name": "SHOP_Menu02",
+		"speaker": "",
+		"listener": "",
+		"content": "Полнота"
+	},
+	{
+		"name": "SHOP_Menu03",
+		"speaker": "",
+		"listener": "",
+		"content": "VIP уровень"
+	},
+	{
+		"name": "SHOP_Menu04",
+		"speaker": "",
+		"listener": "",
+		"content": "МАТЕРИАЛЫ"
+	},
+	{
+		"name": "SHOP_Menu05",
+		"speaker": "",
+		"listener": "",
+		"content": "Есть <ITEM_NUM>"
+	},
+	{
+		"name": "SHOP_Menu06",
+		"speaker": "",
+		"listener": "",
+		"content": "НУЖНО БОЛЬШЕ <MK_YEN>!"
+	},
+	{
+		"name": "SHOP_SoldOut",
+		"speaker": "",
+		"listener": "",
+		"content": "НЕТ В НАЛИЧИИ"
+	},
+	{
+		"name": "SHOP_Quest",
+		"speaker": "",
+		"listener": "",
+		"content": "ОБМЕН"
+	},
+	{
+		"name": "SHOP_DialogTitle_Buy",
+		"speaker": "",
+		"listener": "",
+		"content": "Купить"
+	},
+	{
+		"name": "SHOP_DialogTitle_Sell",
+		"speaker": "",
+		"listener": "",
+		"content": "Продать"
+	},
+	{
+		"name": "SHOP_Dialog01",
+		"speaker": "",
+		"listener": "",
+		"content": "<nbsp>"
+	},
+	{
+		"name": "SHOP_Dialog02",
+		"speaker": "",
+		"listener": "",
+		"content": "Всего"
+	},
+	{
+		"name": "SHOP_ReOrder",
+		"speaker": "",
+		"listener": "",
+		"content": "Повторить предыдущий заказ."
+	},
+	{
+		"name": "SHOP_FOD_Bonus",
+		"speaker": "",
+		"listener": "",
+		"content": "БОНУС ЗА ВКУС"
+	},
+	{
+		"name": "SHOP_MAX",
+		"speaker": "",
+		"listener": "",
+		"content": "МАКС.!"
+	},
+	{
+		"name": "SysMsg_FoodOrder",
+		"speaker": "",
+		"listener": "",
+		"content": "Совершить заказ?"
+	},
+	{
+		"name": "SysMsg_Buy",
+		"speaker": "",
+		"listener": "",
+		"content": "Совершить покупку?"
+	},
+	{
+		"name": "SysMsg_Sell",
+		"speaker": "",
+		"listener": "",
+		"content": "Совершить продажу?"
+	},
+	{
+		"name": "SysMsg_LackMoney",
+		"speaker": "",
+		"listener": "",
+		"content": "Недостаточно средств на вашем цифровом кошельке."
+	},
+	{
+		"name": "SysMsg_PendingOrder",
+		"speaker": "",
+		"listener": "",
+		"content": "Все покупатели должны заказать один товар."
+	},
+	{
+		"name": "SysMsg_Overeat",
+		"speaker": "",
+		"listener": "",
+		"content": "Лучше подождать, пока вы снова проголадаетесь..."
+	},
+	{
+		"name": "SysMsg_QuestBDG_Growth",
+		"speaker": "",
+		"listener": "",
+		"content": "Обменять неотмастеренные значки на этот предмет?"
+	},
+	{
+		"name": "SysMsg_QuestBDG_Master",
+		"speaker": "",
+		"listener": "",
+		"content": "Обменять отмастеренные значки на этот предмет?"
+	}
+]
+}

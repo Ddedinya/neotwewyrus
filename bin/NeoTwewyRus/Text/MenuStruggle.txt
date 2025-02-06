@@ -1,0 +1,172 @@
+{
+"columns":[
+	{
+		"name": "TeamName_rindo",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри"
+	},
+	{
+		"name": "TeamName_kanon",
+		"speaker": "",
+		"listener": "",
+		"content": "Раскрасавчики"
+	},
+	{
+		"name": "TeamName_motoi",
+		"speaker": "",
+		"listener": "",
+		"content": "Чистосердечные"
+	},
+	{
+		"name": "TeamName_huuya",
+		"speaker": "",
+		"listener": "",
+		"content": "Глубокоречное общество"
+	},
+	{
+		"name": "TeamName_susuki",
+		"speaker": "",
+		"listener": "",
+		"content": "Сокрушители"
+	},
+	{
+		"name": "Struggle_Title_w1d6",
+		"speaker": "",
+		"listener": "",
+		"content": "<size=85%>1-я</size> Диагональная Схватка"
+	},
+	{
+		"name": "Struggle_Title_w2d3",
+		"speaker": "",
+		"listener": "",
+		"content": "<size=85%>2-я</size> Диагональная Схватка"
+	},
+	{
+		"name": "Struggle_Title_w2d6",
+		"speaker": "",
+		"listener": "",
+		"content": "<size=85%>3-я</size> Диагональная Схватка"
+	},
+	{
+		"name": "Struggle_Title_w3d5",
+		"speaker": "",
+		"listener": "",
+		"content": "<size=85%>4-я</size> Диагональная Схватка"
+	},
+	{
+		"name": "Struggle_Rule_title01",
+		"speaker": "",
+		"listener": "",
+		"content": "Возьмите контроль над Сибуей!"
+	},
+	{
+		"name": "Struggle_Rule_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Сотрите все Шумы Территорий в каждой зоне."
+	},
+	{
+		"name": "Struggle_Rule_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Победите другие команды, чтобы занять их территории."
+	},
+	{
+		"name": "Struggle_Sub_title01",
+		"speaker": "",
+		"listener": "",
+		"content": "Зарабатывайте очки и получайте за них призы!"
+	},
+	{
+		"name": "Struggle_score",
+		"speaker": "",
+		"listener": "",
+		"content": "Нынешний счёт"
+	},
+	{
+		"name": "Struggle_highscore",
+		"speaker": "",
+		"listener": "",
+		"content": "Рекорд"
+	},
+	{
+		"name": "Struggle_point",
+		"speaker": "",
+		"listener": "",
+		"content": "<STRUGGLE_NUM> <size=80%><SP_pt/pts></size>"
+	},
+	{
+		"name": "Struggle_point_unit",
+		"speaker": "",
+		"listener": "",
+		"content": "очков"
+	},
+	{
+		"name": "Struggle_clear",
+		"speaker": "",
+		"listener": "",
+		"content": "ГОТОВО!"
+	},
+	{
+		"name": "Struggle_get",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОЛУЧЕНО!"
+	},
+	{
+		"name": "Struggle_area",
+		"speaker": "",
+		"listener": "",
+		"content": "Территория Свирепых"
+	},
+	{
+		"name": "SysMsg_StruggleStart",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри начинают с <AreaName> в качестве своей домашней территории."
+	},
+	{
+		"name": "SysMsg_Occupation00",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри заняли <AreaName>!"
+	},
+	{
+		"name": "SysMsg_Occupation01",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри потеряли <AreaName>!"
+	},
+	{
+		"name": "SysMsg_Invation",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри зашли во вражескую территорию!"
+	},
+	{
+		"name": "SysMsg_Release",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри захватили вражескую территорию!"
+	},
+	{
+		"name": "SysMsg_DefeatAllTeam",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри разгромили вражескую команду!"
+	},
+	{
+		"name": "SysMsg_DefeatAllNoize",
+		"speaker": "",
+		"listener": "",
+		"content": "Свирепые Вихри стёрли всех Шумов Территории в этой зоне!"
+	},
+	{
+		"name": "SysMsg_ApperAreaBoss",
+		"speaker": "",
+		"listener": "",
+		"content": "Появился босс этой зоны!"
+	}
+]
+}

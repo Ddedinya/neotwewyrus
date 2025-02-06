@@ -1,0 +1,466 @@
+{
+"columns":[
+	{
+		"name": "Battle_Telop_Start",
+		"speaker": "",
+		"listener": "",
+		"content": "РЕДУКЦИЯ <size=150%><BT_NUM></size>"
+	},
+	{
+		"name": "Battle_GET",
+		"speaker": "",
+		"listener": "",
+		"content": "БЗЫНЬ!"
+	},
+	{
+		"name": "Battle_LvUP",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОВЫШЕНИЕ УРОВНЯ"
+	},
+	{
+		"name": "Battle_Chance",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОПАДИ<BR>В<BR>БИТ!"
+	},
+	{
+		"name": "Battle_Good",
+		"speaker": "",
+		"listener": "",
+		"content": "КРУТО!"
+	},
+	{
+		"name": "Battle_EXCELLENT",
+		"speaker": "",
+		"listener": "",
+		"content": "ПРЕВОСХОДНО!"
+	},
+	{
+		"name": "Battle_ATK",
+		"speaker": "",
+		"listener": "",
+		"content": "АТК"
+	},
+	{
+		"name": "Battle_Weak",
+		"speaker": "",
+		"listener": "",
+		"content": "СЛАБОСТЬ"
+	},
+	{
+		"name": "Battle_Block",
+		"speaker": "",
+		"listener": "",
+		"content": "НОЛЬ"
+	},
+	{
+		"name": "Battle_HOLD",
+		"speaker": "",
+		"listener": "",
+		"content": "УДЕРЖИВАЙ!"
+	},
+	{
+		"name": "Battle_Combo",
+		"speaker": "",
+		"listener": "",
+		"content": "КОМБО!"
+	},
+	{
+		"name": "Battle_DRate",
+		"speaker": "",
+		"listener": "",
+		"content": "МН. ВЫПАДЕНИЯ"
+	},
+	{
+		"name": "Battle_Dive_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Увеличенный урон"
+	},
+	{
+		"name": "Battle_Dive_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Истощение ЗДР"
+	},
+	{
+		"name": "Battle_Dive_03",
+		"speaker": "",
+		"listener": "",
+		"content": "Оздоровительное стирание"
+	},
+	{
+		"name": "Battle_Dive_04",
+		"speaker": "",
+		"listener": "",
+		"content": "Большой шум"
+	},
+	{
+		"name": "Battle_FTA_ROUND",
+		"speaker": "",
+		"listener": "",
+		"content": "РАУНД"
+	},
+	{
+		"name": "Battle_FTA_TIME",
+		"speaker": "",
+		"listener": "",
+		"content": "ВРЕМЯ"
+	},
+	{
+		"name": "Guide_Battle_Back",
+		"speaker": "",
+		"listener": "",
+		"content": "Назад"
+	},
+	{
+		"name": "Guide_Battle_Decide",
+		"speaker": "",
+		"listener": "",
+		"content": "Выбрать"
+	},
+	{
+		"name": "Battle_NextEXP",
+		"speaker": "",
+		"listener": "",
+		"content": "<EXP_NUM> ОПТ для УР↑"
+	},
+	{
+		"name": "Battle_Pause01",
+		"speaker": "",
+		"listener": "",
+		"content": "Продолжить бой"
+	},
+	{
+		"name": "Battle_Pause02",
+		"speaker": "",
+		"listener": "",
+		"content": "Сбежать"
+	},
+	{
+		"name": "Battle_Pause03",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать сначала"
+	},
+	{
+		"name": "Battle_Escape",
+		"speaker": "",
+		"listener": "",
+		"content": "Сбежать с боя?"
+	},
+	{
+		"name": "Battle_Retry01",
+		"speaker": "",
+		"listener": "",
+		"content": "Перезапустить эту редукцию?"
+	},
+	{
+		"name": "Battle_Retry02",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать с редукции 1?"
+	},
+	{
+		"name": "Battle_GameOver01",
+		"speaker": "",
+		"listener": "",
+		"content": "Попробовать снова"
+	},
+	{
+		"name": "Battle_GameOver02",
+		"speaker": "",
+		"listener": "",
+		"content": "Открыть меню"
+	},
+	{
+		"name": "Battle_GameOver03",
+		"speaker": "",
+		"listener": "",
+		"content": "Попробовать снова на лёгком"
+	},
+	{
+		"name": "Battle_GameOver04",
+		"speaker": "",
+		"listener": "",
+		"content": "Убежать"
+	},
+	{
+		"name": "Battle_GameOver05",
+		"speaker": "",
+		"listener": "",
+		"content": "Перезапустить перед битвой"
+	},
+	{
+		"name": "Battle_FTA01",
+		"speaker": "",
+		"listener": "",
+		"content": "Начать битву"
+	},
+	{
+		"name": "Battle_FTA02",
+		"speaker": "",
+		"listener": "",
+		"content": "Открыть меню"
+	},
+	{
+		"name": "Battle_FTA03",
+		"speaker": "",
+		"listener": "",
+		"content": "Убежать"
+	},
+	{
+		"name": "Guide_Result01",
+		"speaker": "",
+		"listener": "",
+		"content": "Пропустить"
+	},
+	{
+		"name": "Guide_Result02",
+		"speaker": "",
+		"listener": "",
+		"content": "Выход"
+	},
+	{
+		"name": "Guide_Result03",
+		"speaker": "",
+		"listener": "",
+		"content": "ОК"
+	},
+	{
+		"name": "Result_Rank",
+		"speaker": "",
+		"listener": "",
+		"content": "РАНК"
+	},
+	{
+		"name": "Result_Rank_S",
+		"speaker": "",
+		"listener": "",
+		"content": "★"
+	},
+	{
+		"name": "Result_Rank_A",
+		"speaker": "",
+		"listener": "",
+		"content": "A"
+	},
+	{
+		"name": "Result_Rank_B",
+		"speaker": "",
+		"listener": "",
+		"content": "B"
+	},
+	{
+		"name": "Result_Rank_C",
+		"speaker": "",
+		"listener": "",
+		"content": "C"
+	},
+	{
+		"name": "Result_Rank_D",
+		"speaker": "",
+		"listener": "",
+		"content": "D"
+	},
+	{
+		"name": "Result_Rank_E",
+		"speaker": "",
+		"listener": "",
+		"content": "E"
+	},
+	{
+		"name": "Result_Round",
+		"speaker": "",
+		"listener": "",
+		"content": "РАУНДЫ"
+	},
+	{
+		"name": "Result_Time",
+		"speaker": "",
+		"listener": "",
+		"content": "ВРЕМЯ"
+	},
+	{
+		"name": "Result_Damage",
+		"speaker": "",
+		"listener": "",
+		"content": "УРОН"
+	},
+	{
+		"name": "Result_DMGrate",
+		"speaker": "",
+		"listener": "",
+		"content": "<DMGR_NUM><MK_PCT>"
+	},
+	{
+		"name": "Result_GetBEXP",
+		"speaker": "",
+		"listener": "",
+		"content": "ВСЕГО ОЗ"
+	},
+	{
+		"name": "Result_BEXPrate",
+		"speaker": "",
+		"listener": "",
+		"content": "<MK_MPD><BEXPR_NUM>"
+	},
+	{
+		"name": "Result_LvUP",
+		"speaker": "",
+		"listener": "",
+		"content": "ПОВЫШЕНИЕ УРОВНЯ!"
+	},
+	{
+		"name": "Result_LvMax",
+		"speaker": "",
+		"listener": "",
+		"content": "МАКС. УРОВЕНЬ!"
+	},
+	{
+		"name": "Result_Master",
+		"speaker": "",
+		"listener": "",
+		"content": "ОТМАСТЕРЕН!"
+	},
+	{
+		"name": "Result_Evolution_sysmsg_bf",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Эволюционировать</C> этот значок?"
+	},
+	{
+		"name": "Result_Evolution_yes",
+		"speaker": "",
+		"listener": "",
+		"content": "О да!"
+	},
+	{
+		"name": "Result_Evolution_no",
+		"speaker": "",
+		"listener": "",
+		"content": "Не сейчас..."
+	},
+	{
+		"name": "Result_Evolution_sysmsg_af",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваш значок <CRE>Эволюционировал</C>!"
+	},
+	{
+		"name": "Result_Mutation_sysmsg_bf",
+		"speaker": "",
+		"listener": "",
+		"content": "<CRE>Мутировать</C> этот значок?"
+	},
+	{
+		"name": "Result_Mutation_yes",
+		"speaker": "",
+		"listener": "",
+		"content": "О да!"
+	},
+	{
+		"name": "Result_Mutation_no",
+		"speaker": "",
+		"listener": "",
+		"content": "Не сейчас..."
+	},
+	{
+		"name": "Result_Mutation_sysmsg_af",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваш значок <CRE>мутировал</C>!"
+	},
+	{
+		"name": "Result_CannotEvolve",
+		"speaker": "",
+		"listener": "",
+		"content": "Невозможно эволюционировать этот значок из-за полного инвентаря."
+	},
+	{
+		"name": "Result_GetCP_sysmsg",
+		"speaker": "",
+		"listener": "",
+		"content": "Получены ОД!"
+	},
+	{
+		"name": "Result_Charge",
+		"speaker": "",
+		"listener": "",
+		"content": "Переведено в СибуПэй!"
+	},
+	{
+		"name": "Result_DiveReward_Title",
+		"speaker": "",
+		"listener": "",
+		"content": "НАГРАДЫ"
+	},
+	{
+		"name": "Result_DiveReward_1",
+		"speaker": "",
+		"listener": "",
+		"content": "Золото"
+	},
+	{
+		"name": "Result_DiveReward_2",
+		"speaker": "",
+		"listener": "",
+		"content": "Серебро"
+	},
+	{
+		"name": "Result_DiveReward_3",
+		"speaker": "",
+		"listener": "",
+		"content": "Бронза"
+	},
+	{
+		"name": "Battle_Motoi_Project01",
+		"speaker": "",
+		"listener": "",
+		"content": "Средства для <i>Fuerza</i>"
+	},
+	{
+		"name": "Battle_Motoi_Project01_info",
+		"speaker": "",
+		"listener": "",
+		"content": "Каждый йен, который вы дадите<BR>дадут силу Чистосердечным!<BR>Откройте <i>su bolso</i>!"
+	},
+	{
+		"name": "Battle_Motoi_Project02",
+		"speaker": "",
+		"listener": "",
+		"content": "<i>Plus de</i> Чистосердечные"
+	},
+	{
+		"name": "Battle_Motoi_Project02_info",
+		"speaker": "",
+		"listener": "",
+		"content": "Пожертвуйте ваши лишние йен<BR>и помогите Чистосердечным<BR>спасти своё положение, <i>s'il vous plaît</i>!"
+	},
+	{
+		"name": "Battle_Motoi_Project03",
+		"speaker": "",
+		"listener": "",
+		"content": "Make Victory <i>Mein</i>"
+	},
+	{
+		"name": "Battle_Motoi_Project03_info",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваше щедрое пожертвование<BR>обеспечит решительную победу!<BR><i>Spende</i> эти йены!"
+	},
+	{
+		"name": "Battle_Motoi_Menu01",
+		"speaker": "",
+		"listener": "",
+		"content": "Всего пожертвований"
+	},
+	{
+		"name": "Battle_Motoi_Menu02",
+		"speaker": "",
+		"listener": "",
+		"content": "Осталось времени"
+	}
+]
+}

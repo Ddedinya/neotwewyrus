@@ -1,0 +1,160 @@
+{
+"columns":[
+	{
+		"name": "SNS_Guide_Back",
+		"speaker": "",
+		"listener": "",
+		"content": "Назад"
+	},
+	{
+		"name": "SNS_Guide_Decide",
+		"speaker": "",
+		"listener": "",
+		"content": "Выбрать"
+	},
+	{
+		"name": "SNS_PostTime_now",
+		"speaker": "",
+		"listener": "",
+		"content": "<CYE>Только что</C>"
+	},
+	{
+		"name": "SNS_PostTime_10m",
+		"speaker": "",
+		"listener": "",
+		"content": "Несколько минут назад"
+	},
+	{
+		"name": "SNS_PostTime_1h",
+		"speaker": "",
+		"listener": "",
+		"content": "1 час назад"
+	},
+	{
+		"name": "SNS_PostTime_3h",
+		"speaker": "",
+		"listener": "",
+		"content": "Несколько часов назад"
+	},
+	{
+		"name": "SNS_PostTime_5h",
+		"speaker": "",
+		"listener": "",
+		"content": "Несколько часов назад"
+	},
+	{
+		"name": "SNS_PostTime_1d",
+		"speaker": "",
+		"listener": "",
+		"content": "1 день назад"
+	},
+	{
+		"name": "SNS_PostTime_2d",
+		"speaker": "",
+		"listener": "",
+		"content": "2 дня назад"
+	},
+	{
+		"name": "SNS_PostTime_3d",
+		"speaker": "",
+		"listener": "",
+		"content": "3 дня назад"
+	},
+	{
+		"name": "SNS_PostTime_4d",
+		"speaker": "",
+		"listener": "",
+		"content": "4 дня назад"
+	},
+	{
+		"name": "SNS_PostTime_5d",
+		"speaker": "",
+		"listener": "",
+		"content": "5 дней назад"
+	},
+	{
+		"name": "SNS_PostTime_6d",
+		"speaker": "",
+		"listener": "",
+		"content": "6 дней назад"
+	},
+	{
+		"name": "SNS_PostTime_1w",
+		"speaker": "",
+		"listener": "",
+		"content": "Более 1 недели назад"
+	},
+	{
+		"name": "Guide_Imprint",
+		"speaker": "",
+		"listener": "",
+		"content": "Внедрить"
+	},
+	{
+		"name": "Guide_Finish",
+		"speaker": "",
+		"listener": "",
+		"content": "Закончить"
+	},
+	{
+		"name": "IMP_Keyword_No",
+		"speaker": "",
+		"listener": "",
+		"content": "Нет подходящих ключевых слов."
+	},
+	{
+		"name": "IMP_Keyword_Shortage",
+		"speaker": "",
+		"listener": "",
+		"content": "Недостаточно ключевых слов."
+	},
+	{
+		"name": "IMP_Keyword_NotGotten",
+		"speaker": "",
+		"listener": "",
+		"content": "???"
+	},
+	{
+		"name": "Guide_TweetRelease",
+		"speaker": "",
+		"listener": "",
+		"content": "Напомнить"
+	},
+	{
+		"name": "Remind_Thinking",
+		"speaker": "",
+		"listener": "",
+		"content": "?"
+	},
+	{
+		"name": "Remind_forget_00",
+		"speaker": "",
+		"listener": "",
+		"content": "???"
+	},
+	{
+		"name": "Remind_forget_01",
+		"speaker": "",
+		"listener": "",
+		"content": "????"
+	},
+	{
+		"name": "Remind_forget_02",
+		"speaker": "",
+		"listener": "",
+		"content": "?????"
+	},
+	{
+		"name": "Dive_Lv",
+		"speaker": "",
+		"listener": "",
+		"content": "Рекомендуемый уровень"
+	},
+	{
+		"name": "Guide_Dive",
+		"speaker": "",
+		"listener": "",
+		"content": "Погрузиться"
+	}
+]
+}

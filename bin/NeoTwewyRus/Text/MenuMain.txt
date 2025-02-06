@@ -484,37 +484,37 @@
 		"name": "Setting_Difficulty_Title",
 		"speaker": "",
 		"listener": "",
-		"content": "СЛОЖНОСТЬ"
+		"content": "УРОВЕНЬ СЛОЖНОСТИ"
 	},
 	{
 		"name": "Setting_Difficulty_Info",
 		"speaker": "",
 		"listener": "",
-		"content": "Повышая сложность, вы будете сталкиваться с <CRE>более сильными Шумами</C>, которые оставляют <CRE>более редкие значки</C>."
+		"content": "Повышая уровень сложности, вы будете сталкиваться с <CRE>более сильными Шумами</C>, которые оставляют <CRE>более редкие значки</C>."
 	},
 	{
 		"name": "Setting_Difficulty01",
 		"speaker": "",
 		"listener": "",
-		"content": "ЛЕГКАЯ"
+		"content": "ЛЕГКО"
 	},
 	{
 		"name": "Setting_Difficulty02",
 		"speaker": "",
 		"listener": "",
-		"content": "НОРМАЛ."
+		"content": "НОРМАЛЬНО"
 	},
 	{
 		"name": "Setting_Difficulty03",
 		"speaker": "",
 		"listener": "",
-		"content": "ТЯЖЁЛАЯ"
+		"content": "ТЯЖЕЛО"
 	},
 	{
 		"name": "Setting_Difficulty04",
 		"speaker": "",
 		"listener": "",
-		"content": "ПРЕДЕЛЬНАЯ"
+		"content": "ПРЕДЕЛЬНО"
 	},
 	{
 		"name": "Setting_Level_Title",
@@ -526,7 +526,7 @@
 		"name": "Setting_Level_Info",
 		"speaker": "",
 		"listener": "",
-		"content": "Понижения уровень, ЗДР вашей команды снижается, но повышается <CRE>мн. выпадения значков</C>."
+		"content": "Понижая уровень, ЗДР вашей команды снижается, но повышается <CRE>мн. выпадения значков</C>."
 	},
 	{
 		"name": "Difficulty_E",
@@ -1090,19 +1090,19 @@
 		"name": "Sphere_Quest",
 		"speaker": "",
 		"listener": "",
-		"content": "КВЕСТ"
+		"content": "ЗАДАНИЕ"
 	},
 	{
 		"name": "Guide_Zoom",
 		"speaker": "",
 		"listener": "",
-		"content": "Приближение"
+		"content": "Отдалить/Приблизить"
 	},
 	{
 		"name": "Guide_Default",
 		"speaker": "",
 		"listener": "",
-		"content": "По умолчанию"
+		"content": "Приближение по умолчанию"
 	},
 	{
 		"name": "Guide_Prof_on",
@@ -1120,7 +1120,7 @@
 		"name": "Guide_Sphere_01_1",
 		"speaker": "",
 		"listener": "",
-		"content": "Квест незавершён"
+		"content": "Задание незавершено"
 	},
 	{
 		"name": "Guide_Sphere_01_2",
@@ -1132,7 +1132,7 @@
 		"name": "Guide_Sphere_02_1",
 		"speaker": "",
 		"listener": "",
-		"content": "Квест активен"
+		"content": "Задание активно"
 	},
 	{
 		"name": "Guide_Sphere_02_2",
@@ -1234,7 +1234,7 @@
 		"name": "Guide_Map01",
 		"speaker": "",
 		"listener": "",
-		"content": "Приблизить"
+		"content": "Отдалить/Приблизить"
 	},
 	{
 		"name": "Guide_Map02",
@@ -1528,7 +1528,7 @@
 		"name": "Option_Save03",
 		"speaker": "",
 		"listener": "",
-		"content": "Вернуться на титульный экран"
+		"content": "Вернуться на вступительный экран"
 	},
 	{
 		"name": "Option_Game01",

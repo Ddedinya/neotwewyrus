@@ -1,0 +1,178 @@
+{
+"columns":[
+	{
+		"name": "Guide_EnterShop",
+		"speaker": "",
+		"listener": "",
+		"content": "Войти"
+	},
+	{
+		"name": "Guide_JumpOver",
+		"speaker": "",
+		"listener": "",
+		"content": "Перепрыгнуть"
+	},
+	{
+		"name": "Guide_JumpPsychic",
+		"speaker": "",
+		"listener": "",
+		"content": "Телеварп"
+	},
+	{
+		"name": "Guide_Talk",
+		"speaker": "",
+		"listener": "",
+		"content": "Поговорить"
+	},
+	{
+		"name": "Guide_Search",
+		"speaker": "",
+		"listener": "",
+		"content": "Проверить"
+	},
+	{
+		"name": "Guide_Battle",
+		"speaker": "",
+		"listener": "",
+		"content": "Бой"
+	},
+	{
+		"name": "Guide_MainMenu",
+		"speaker": "",
+		"listener": "",
+		"content": "Гл. меню"
+	},
+	{
+		"name": "Guide_Difficulty",
+		"speaker": "",
+		"listener": "",
+		"content": "Сложность"
+	},
+	{
+		"name": "Guide_Option",
+		"speaker": "",
+		"listener": "",
+		"content": "Настройки"
+	},
+	{
+		"name": "Guide_Log",
+		"speaker": "",
+		"listener": "",
+		"content": "Журнал"
+	},
+	{
+		"name": "Com_Saving",
+		"speaker": "",
+		"listener": "",
+		"content": "Сохранение"
+	},
+	{
+		"name": "Com_Loading",
+		"speaker": "",
+		"listener": "",
+		"content": "Загрузка"
+	},
+	{
+		"name": "Field_Lv",
+		"speaker": "",
+		"listener": "",
+		"content": "Ур"
+	},
+	{
+		"name": "Field_Chain",
+		"speaker": "",
+		"listener": "",
+		"content": "Цепочка:"
+	},
+	{
+		"name": "Notice_Board",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваш разум освежился."
+	},
+	{
+		"name": "Notice_Sphere",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваша социальная сеть была обновлена."
+	},
+	{
+		"name": "Notice_Trophy",
+		"speaker": "",
+		"listener": "",
+		"content": "Вы получили новое граффити."
+	},
+	{
+		"name": "Notice_AreaRelease",
+		"speaker": "",
+		"listener": "",
+		"content": "Открыта новая зона"
+	},
+	{
+		"name": "ShopGuide_Shop",
+		"speaker": "",
+		"listener": "",
+		"content": "МАГАЗИН"
+	},
+	{
+		"name": "MapGuide_NoEntry",
+		"speaker": "",
+		"listener": "",
+		"content": "НЕТ ВХОДА"
+	},
+	{
+		"name": "CharaChange_CH001",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Риндо?"
+	},
+	{
+		"name": "CharaChange_CH002",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Шоку?"
+	},
+	{
+		"name": "CharaChange_CH003",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Фрета?"
+	},
+	{
+		"name": "CharaChange_CH004",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Наги?"
+	},
+	{
+		"name": "CharaChange_CH005",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Бита?"
+	},
+	{
+		"name": "CharaChange_CH006",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Неку?"
+	},
+	{
+		"name": "CharaChange_CH007",
+		"speaker": "",
+		"listener": "",
+		"content": "Заменить Минамимото?"
+	},
+	{
+		"name": "SysMsg_CharaChange_01",
+		"speaker": "",
+		"listener": "",
+		"content": "Ваш новый член команды готов к работе."
+	},
+	{
+		"name": "SysMsg_CharaChange_02",
+		"speaker": "",
+		"listener": "",
+		"content": "Значки и одежда будут перенесены."
+	}
+]
+}
