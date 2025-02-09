@@ -6,6 +6,7 @@ using System.Drawing;
 using UnityEngine.TextCore;
 using UnityEngine.TextCore.LowLevel;
 using HarmonyLib;
+using Il2CppUI.Utility;
 
 [assembly: MelonInfo(typeof(NeoTwewyRus.Core), "NeoTwewyRus", "0.0.1", "Ddedinya", null)]
 [assembly: MelonGame("SQUARE ENIX", "NEO: The World Ends with You")]
@@ -200,7 +201,6 @@ namespace NeoTwewyRus
                 {
                     string json = File.ReadAllText(filePath);
                     var newText = JsonConvert.DeserializeObject<JsonStructure>(json); // Преобразуем содержимое файла в JSON объект
-                    MelonLogger.Msg($"Новый текстовый файл {fileName} успешно загружен.");
                     return newText;
                 }
                 else { return null;}
@@ -221,7 +221,6 @@ namespace NeoTwewyRus
                 {
                     string json = File.ReadAllText(filePath);
                     var newText = JsonConvert.DeserializeObject<ConfigStructure>(json); // Преобразуем содержимое файла в JSON объект
-                    MelonLogger.Msg($"Новый конфиг для {fileName} успешно загружен.");
                     return newText;
                 }
                 else { return null; }
@@ -230,6 +229,28 @@ namespace NeoTwewyRus
             {
                 MelonLogger.Error($"Ошибка при загрузке нового конфига для {fileName}: {ex.Message}");
                 return null;
+            }
+        }
+
+        // Патч некоторых элементов интерфейса
+        [HarmonyPatch(typeof(UIImageLoaderPersonal), "GetSprite")]
+        class Patch_UIImageLoaderPersonal_GetSprite
+        {
+            [HarmonyPostfix]
+            public static void Postfix(UIImageLoaderPersonal __instance, ref Sprite __result, Il2CppSystem.String key, Vector2 pivot)
+            {
+                if (File.Exists($"Mods/NeoTwewyRus/Textures/{__result.name}.png")) 
+                {
+                    Texture2D texture = LoadTexture($"Mods/NeoTwewyRus/Textures/{__result.name}.png");
+                    if (texture == null)
+                    {
+                        MelonLogger.Error("Не удалось загрузить новый спрайт!");
+                        return;
+                    }
+                    
+                    Sprite newSprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), pivot);
+                    __result = newSprite;
+                }
             }
         }
 
