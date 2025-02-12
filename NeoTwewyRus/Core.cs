@@ -7,6 +7,9 @@ using UnityEngine.TextCore;
 using UnityEngine.TextCore.LowLevel;
 using HarmonyLib;
 using Il2CppUI.Utility;
+using Il2CppUI;
+using UnityEngine.U2D;
+using Il2Cpp;
 
 [assembly: MelonInfo(typeof(NeoTwewyRus.Core), "NeoTwewyRus", "0.0.1", "Ddedinya", null)]
 [assembly: MelonGame("SQUARE ENIX", "NEO: The World Ends with You")]
@@ -232,39 +235,135 @@ namespace NeoTwewyRus
             }
         }
 
-        // Патч некоторых элементов интерфейса
-        [HarmonyPatch(typeof(UIImageLoaderPersonal), "GetSprite")]
-        class Patch_UIImageLoaderPersonal_GetSprite
+        public static Sprite LoadNewSprite(string name, Vector2 pivot)
+        {
+            if (File.Exists($"Mods/NeoTwewyRus/Textures/{name}.png"))
+            {
+                Texture2D texture = LoadTexture($"Mods/NeoTwewyRus/Textures/{name}.png");
+                if (texture == null)
+                {
+                    MelonLogger.Error("Не удалось загрузить новый спрайт!");
+                    return null;
+                }
+
+                return Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), pivot);
+            }
+            else { return null; }
+        }
+
+        // это вроде не нужно, но на всякий случай оставлю
+        /*
+        [HarmonyPatch(typeof(UI109Base), "GetSpriteFromAtlas")]
+        public class GetSpriteFromAtlasPatch
         {
             [HarmonyPostfix]
-            public static void Postfix(UIImageLoaderPersonal __instance, ref Sprite __result, Il2CppSystem.String key, Vector2 pivot)
+            public static void Postfix(UI109Base __instance, ref UnityEngine.Sprite __result, string key, string spriteName)
             {
-                if (File.Exists($"Mods/NeoTwewyRus/Textures/{__result.name}.png")) 
+                 __result = LoadNewSprite(__result.name, __result.pivot);
+            }
+        }*/
+
+        // Патч грува - он какого-то хрена загружается как текстура
+        [HarmonyPatch(typeof(UIImageLoaderPersonal), "GetTexture")]
+        public class GetTexturePatch
+        {
+            [HarmonyPostfix]
+            public static void Postfix(UIImageLoaderPersonal __instance, ref UnityEngine.Texture2D __result, Il2CppSystem.String key)
+            {
+                if (File.Exists($"Mods/NeoTwewyRus/Textures/{__result.name}.png"))
                 {
                     Texture2D texture = LoadTexture($"Mods/NeoTwewyRus/Textures/{__result.name}.png");
                     if (texture == null)
                     {
-                        MelonLogger.Error("Не удалось загрузить новый спрайт!");
+                        MelonLogger.Error("Не удалось загрузить новую текстуру!");
                         return;
                     }
-                    
-                    Sprite newSprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), pivot);
-                    __result = newSprite;
+
+                    __result = texture;
                 }
             }
         }
 
+        // Патч некоторых надписей
+        [HarmonyPatch(typeof(SpriteAtlas), "GetSprite")]
+        public class SpriteAtlasPatch
+        {
+            [HarmonyPostfix]
+            public static void Postfix(UI109Base __instance, ref UnityEngine.Sprite __result, string name)
+            {
+                if (File.Exists($"Mods/NeoTwewyRus/Textures/{__result.name}.png"))
+                {
+                    __result = LoadNewSprite(__result.name, __result.pivot);
+                }
+            }
+        }
+
+        // Патч некоторых элементов интерфейса
+        [HarmonyPatch(typeof(UIImageLoaderPersonal), "GetSprite")]
+        class GetSpritePatch
+        {
+            [HarmonyPostfix]
+            public static void Postfix(UIImageLoaderPersonal __instance, ref Sprite __result, Il2CppSystem.String key, Vector2 pivot)
+            {
+                if (File.Exists($"Mods/NeoTwewyRus/Textures/{__result.name}.png"))
+                {
+                    __result = LoadNewSprite(__result.name, pivot);
+                }
+            }
+        }
+
+        // Фикс шрифта на иконках магазинов
+        [HarmonyPatch(typeof(ShopNameObject), "GetShopName")]
+        public static class GetShopNamePatch
+        {
+            static void Postfix(ShopNameObject __instance, ref GameObject __result)
+            {
+                __result.GetComponentInChildren<TextMeshProUGUI>().fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+            }
+        }
+
+        // Фикс шрифта на иконках магазинов
+        [HarmonyPatch(typeof(ShopIconObject), "SetShow")]
+        public static class SetShowPatch
+        {
+            static void Postfix(ShopIconObject __instance)
+            {
+                __instance.m_TitleText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+            }
+        }
+
+        // Фикс шрифта на иконках магазинов
+        [HarmonyPatch(typeof(ShopIconObject), "OnScanMode")]
+        public static class OnScanModePatch
+        {
+            static void Postfix(ShopIconObject __instance)
+            {
+                __instance.m_TitleText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+            }
+        }
+
+        // Фикс шрифта на иконках переходов между зонами
+        [HarmonyPatch(typeof(FieldMapUIAreaSign), "OnLateUpdate")]
+        public static class AreaNamePatch
+        {
+            [HarmonyPostfix]
+            public static void Postfix(FieldMapUIAreaSign __instance)
+            {
+                __instance.m_NextAreaText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+            }
+        }
+
         // Патч шрифта
-        [HarmonyPatch(typeof(TextMeshProUGUI), "Awake")]
+        [HarmonyPatch(typeof(TextMeshProUGUI), "OnEnable")]
         public static class FontPatch
         {
             [HarmonyPostfix]
             public static void Postfix(TextMeshProUGUI __instance)
             {
-                if (__instance.font != null && __instance.font.name == "FOT-NewRodinProN-B SDF" && __instance.name != "Text_name"
-                    && __instance.name != "AreaName" && !__instance.name.StartsWith("ShopName"))
+                if (__instance.font != null && __instance.font.name == "FOT-NewRodinProN-B SDF")
                 {
                     __instance.font = _newFont;
+                    __instance.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
                 }
             }
         }
