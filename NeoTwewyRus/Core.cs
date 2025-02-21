@@ -18,55 +18,55 @@ namespace NeoTwewyRus
 {
     public class Core : MelonMod
     {
-        private static TMP_FontAsset _newFont; // Создаём отдельную переменную для шрифта, чтобы не пришлось его постоянно создавать
-
-        public override void OnInitializeMelon()
+        static Dictionary<string, TMP_FontAsset> _fonts = new Dictionary<string, TMP_FontAsset>() // Создаём отдельный словарь для шрифтов, чтобы не пришлось их постоянно создавать
         {
-            GetNewFont();
-        }
+            { "FOT-NewRodinProN-B SDF", null },
+            { "FOT-CARATSTD-UB SDF", null },
+            { "FOT-CometStd-B SDF", null },
+            { "FOT-ComicReggaeStd-B SDF", null },
+            { "FOT-GOSPELSTD-EB SDF", null }
+        };
 
-        public static void GetNewFont() // Функция для создания шрифта на замену оригинальному
+        public static TMP_FontAsset CreateNewFont(string name)
         {
             try
             {
-                var texture = LoadTexture("Mods/NeoTwewyRus/Fonts/FOT-NewRodinProN-B SDF Atlas.png"); // Загрузка атласа шрифта
+                MelonLogger.Msg($"Mods/NeoTwewyRus/Fonts/{name} Atlas.png");
+                var texture = LoadTexture($"Mods/NeoTwewyRus/Fonts/{name} Atlas.png"); // Загрузка атласа шрифта
                 if (texture == null)
                 {
-                    MelonLogger.Error("Не удалось загрузить атлас шрифта.");
-                    return;
+                    MelonLogger.Error($"Не удалось загрузить атлас шрифта {name}.");
+                    return null;
                 }
 
-                var shader = Shader.Find("TextMeshPro/Distance Field"); // Создание шейдера шрифта
+                var shader = Shader.Find("TextMeshPro/Distance Field");
                 if (shader == null)
                 {
-                    MelonLogger.Error("Не удалось загрузить шейдер шрифта.");
-                    return;
+                    MelonLogger.Error("Не удалось загрузить шейдер.");
+                    return null;
                 }
 
-                var material = new Material(shader) // Создание материала шрифта из его шейдера
+                Material material = new Material(shader)
                 {
                     mainTexture = texture,
-                    name = "FOT-NewRodinProN-B Material"
-
+                    name = $"{name} (New) Material"
                 };
 
                 // Обводка
                 material.EnableKeyword("OUTLINE_ON");
-                material.SetColor("_OutlineColor", UnityEngine.Color.black);
-                material.SetFloat("_OutlineWidth", 0.2f);
 
                 // Создание объекта TMP шрифта и загрузка в него кучи инфы. 
                 var fontAsset = ScriptableObject.CreateInstance<TMP_FontAsset>();
-                fontAsset.name = "FOT-NewRodinProN-B SDF";
+                fontAsset.name = $"{name} (New)";
                 fontAsset.material = material;
                 fontAsset.atlas = texture;
                 fontAsset.atlasTextures = new Texture2D[] { texture };
-                var jsonData = JsonConvert.DeserializeObject<FontData>(File.ReadAllText("Mods/NeoTwewyRus/Fonts/FOT-NewRodinProN-B SDF.json"));
+                var jsonData = JsonConvert.DeserializeObject<FontData>(File.ReadAllText($"Mods/NeoTwewyRus/Fonts/{name}.json"));
 
                 if (jsonData == null)
                 {
-                    MelonLogger.Error("Не удалось загрузить данные шрифта.");
-                    return;
+                    MelonLogger.Error($"Не удалось загрузить данные шрифта.");
+                    return null;
                 }
 
                 fontAsset.faceInfo = new FaceInfo
@@ -138,8 +138,8 @@ namespace NeoTwewyRus
 
                 if (fontAsset.glyphTable == null || fontAsset.characterTable == null || fontAsset.material == null)
                 {
-                    MelonLogger.Error("Некоторые важные данные шрифта не были инициализированы.");
-                    return;
+                    MelonLogger.Error($"Некоторые важные данные шрифта не были инициализированы.");
+                    return null;
                 }
 
                 fontAsset.atlasWidth = jsonData.m_AtlasWidth;
@@ -148,12 +148,12 @@ namespace NeoTwewyRus
                 fontAsset.atlasRenderMode = (GlyphRenderMode)jsonData.m_AtlasRenderMode;
                 fontAsset.InitializeDictionaryLookupTables();
 
-                _newFont = fontAsset; // Присваиваем полученный шрифт и молимся, чтобы он не превратил весь текст в ужас
+                return fontAsset; 
             }
             catch (System.Exception ex)
             {
-                MelonLogger.Error($"Ошибка загрузки шрифта: {ex.Message}");
-                return;
+                MelonLogger.Error($"Ошибка загрузки шрифта {name}: {ex.Message}");
+                return null;
             }
         }
 
@@ -237,18 +237,14 @@ namespace NeoTwewyRus
 
         public static Sprite LoadNewSprite(string name, Vector2 pivot)
         {
-            if (File.Exists($"Mods/NeoTwewyRus/Textures/{name}.png"))
+            Texture2D texture = LoadTexture($"Mods/NeoTwewyRus/Textures/{name}.png");
+            if (texture == null)
             {
-                Texture2D texture = LoadTexture($"Mods/NeoTwewyRus/Textures/{name}.png");
-                if (texture == null)
-                {
-                    MelonLogger.Error("Не удалось загрузить новый спрайт!");
-                    return null;
-                }
-
-                return Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), pivot);
+                MelonLogger.Error("Не удалось загрузить новый спрайт!");
+                return null;
             }
-            else { return null; }
+
+            return Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), pivot);
         }
 
         // это вроде не нужно, но на всякий случай оставлю
@@ -318,7 +314,7 @@ namespace NeoTwewyRus
         {
             static void Postfix(ShopNameObject __instance, ref GameObject __result)
             {
-                __result.GetComponentInChildren<TextMeshProUGUI>().fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+                __result.GetComponentInChildren<TextMeshProUGUI>().fontSharedMaterial.mainTexture = _fonts["FOT-NewRodinProN-B SDF"].atlasTexture;
             }
         }
 
@@ -328,7 +324,7 @@ namespace NeoTwewyRus
         {
             static void Postfix(ShopIconObject __instance)
             {
-                __instance.m_TitleText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+                __instance.m_TitleText.fontSharedMaterial.mainTexture = _fonts["FOT-NewRodinProN-B SDF"].atlasTexture;
             }
         }
 
@@ -338,7 +334,7 @@ namespace NeoTwewyRus
         {
             static void Postfix(ShopIconObject __instance)
             {
-                __instance.m_TitleText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+                __instance.m_TitleText.fontSharedMaterial.mainTexture = _fonts["FOT-NewRodinProN-B SDF"].atlasTexture;
             }
         }
 
@@ -349,7 +345,19 @@ namespace NeoTwewyRus
             [HarmonyPostfix]
             public static void Postfix(FieldMapUIAreaSign __instance)
             {
-                __instance.m_NextAreaText.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+                __instance.m_NextAreaText.fontSharedMaterial.mainTexture = _fonts["FOT-NewRodinProN-B SDF"].atlasTexture;
+            }
+        }
+
+        // Фикс шрифта во время боя
+        [HarmonyPatch(typeof(DamageFont), "ShowFont")]
+        public static class DamageFontPatch
+        {
+            static void Postfix(DamageFont __instance)
+            {
+                __instance.mTextMeshBlock.fontSharedMaterial.mainTexture = _fonts["FOT-CometStd-B SDF"].atlasTexture;
+                __instance.mTextMeshScript.fontSharedMaterial.mainTexture = _fonts["FOT-CometStd-B SDF"].atlasTexture;
+                __instance.mTextMeshWeak.fontSharedMaterial.mainTexture = _fonts["FOT-CometStd-B SDF"].atlasTexture;
             }
         }
 
@@ -360,10 +368,20 @@ namespace NeoTwewyRus
             [HarmonyPostfix]
             public static void Postfix(TextMeshProUGUI __instance)
             {
-                if (__instance.font != null && __instance.font.name == "FOT-NewRodinProN-B SDF")
+                if (_fonts.ContainsKey(__instance.font.name))
                 {
-                    __instance.font = _newFont;
-                    __instance.fontSharedMaterial.mainTexture = _newFont.atlasTexture;
+                    if (_fonts[__instance.font.name] == null) { _fonts[__instance.font.name] = CreateNewFont(__instance.font.name); }
+                    TMP_FontAsset newFont = _fonts[__instance.font.name];
+                    Color32 outlineColor = __instance.outlineColor;
+                    float outlineWidth = __instance.outlineWidth;
+                    Material material;
+                    if (__instance.name != "Text_name") { material = new Material(__instance.fontSharedMaterial); }
+                    else { material = __instance.fontSharedMaterial; }
+                    __instance.font = newFont;
+                    __instance.fontSharedMaterial = material;
+                    __instance.fontSharedMaterial.mainTexture = newFont.atlasTexture;
+                    __instance.outlineColor = outlineColor;
+                    __instance.outlineWidth = outlineWidth * 1.5f;
                 }
             }
         }
@@ -438,7 +456,7 @@ namespace NeoTwewyRus
                 }
                 catch (Exception ex)
                 {
-                    MelonLogger.Error($"Ошибка при попытка пропачить {__instance.name}: {ex.Message}");
+                    MelonLogger.Error($"Ошибка при попытке пропачить {__instance.name}: {ex.Message}");
                 }
             }
         }
